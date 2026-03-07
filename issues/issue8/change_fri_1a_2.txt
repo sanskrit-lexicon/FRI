@@ -1,0 +1,10 @@
+; <L>994<pc>046<k1>AveSita<k2>AveSita
+5837 old āveśita (pp. caus. <viś) 
+;
+5837 new āveśita (pp. caus. ≺ viś) 
+;---------------------------------------------------
+; <L>7120<pc>304<k1>saMmAnita<k2>saMmAnita
+41432 old saṃmānita (pp. caus. <man) 
+;
+41432 new saṃmānita (pp. caus. ≺ man) 
+;---------------------------------------------------

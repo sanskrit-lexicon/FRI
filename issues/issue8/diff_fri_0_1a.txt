@@ -1,0 +1,3360 @@
+27c27
+< <div n="1"/>1 <lang n="czech">bohatý nа somu, zářící; m. slunce</lang>
+---
+> <div n="1"/>1 <lang n="czech">bohatý na somu, zářící; m. slunce</lang>
+80c80
+< <div n="1"/>3 <lang n="english">а wrong time, not а right time</lang>
+---
+> <div n="1"/>3 <lang n="english">a wrong time, not a right time</lang>
+209c209
+< <div n="1"/>3 <lang n="english">а medicine, antidote</lang>
+---
+> <div n="1"/>3 <lang n="english">a medicine, antidote</lang>
+269c269
+< <div n="1"/>3 <lang n="english">а tip, summit, beginning; -° a. chief, excellent</lang>
+---
+> <div n="1"/>3 <lang n="english">a tip, summit, beginning; -° a. chief, excellent</lang>
+279c279
+< <div n="1"/>1 <lang n="czech">nejdříve, nа začátku, vpředu</lang>
+---
+> <div n="1"/>1 <lang n="czech">nejdříve, na začátku, vpředu</lang>
+335c335
+< <div n="1"/>3 <lang n="english">а hook, bend, lap, flank; line, mark; act of a drama</lang>
+---
+> <div n="1"/>3 <lang n="english">a hook, bend, lap, flank; line, mark; act of a drama</lang>
+362c362
+< <div n="1"/>3 <lang n="english">а limb of the body, the body, a part; the base of a word</lang>
+---
+> <div n="1"/>3 <lang n="english">a limb of the body, the body, a part; the base of a word</lang>
+378c378
+< <div n="1"/>1 <lang n="czech">jméno ṛṣiho a jeho роtomků (zvláště Agniho)</lang>
+---
+> <div n="1"/>1 <lang n="czech">jméno ṛṣiho a jeho potomků (zvláště Agniho)</lang>
+380c380
+< <div n="1"/>3 <lang n="english">name of а ṛṣi and his descendants (esp. of Agni)</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a ṛṣi and his descendants (esp. of Agni)</lang>
+534c534
+< <div n="1"/>1 <lang n="czech">nevědění, neznalost; аbl. nevědomky</lang>
+---
+> <div n="1"/>1 <lang n="czech">nevědění, neznalost; abl. nevědomky</lang>
+617c617
+< <div n="1"/>3 <lang n="english">а watch-tower</lang>
+---
+> <div n="1"/>3 <lang n="english">a watch-tower</lang>
+707c707
+< <div n="1"/>3 <lang n="english">а great anger</lang>
+---
+> <div n="1"/>3 <lang n="english">a great anger</lang>
+735c735
+< <div n="1"/>1 <lang n="czech">velmi chráněn neb о střežen</lang>
+---
+> <div n="1"/>1 <lang n="czech">velmi chráněn neb o střežen</lang>
+988c988
+< <div n="1"/>2 <lang n="russian">священник связанный c культом огня; первый такой священник; pl. ero потомки</lang>
+---
+> <div n="1"/>2 <lang n="russian">священник связанный с культом огня; первый такой священник; pl. его потомки</lang>
+1095c1095
+< <div n="1"/>1 <lang n="czech">neviděný, nevnímaný, nеreálný</lang>
+---
+> <div n="1"/>1 <lang n="czech">neviděný, nevnímaný, nereálný</lang>
+1133c1133
+< <div n="1"/>3 <lang n="english">without а second, unique</lang>
+---
+> <div n="1"/>3 <lang n="english">without a second, unique</lang>
+1137c1137
+< <div n="1"/>1 <lang n="czech">nerozdělený nа dvě části</lang>
+---
+> <div n="1"/>1 <lang n="czech">nerozdělený na dvě části</lang>
+1161c1161
+< <div n="1"/>1 <lang n="czech">velmi nízkého рůvodu</lang>
+---
+> <div n="1"/>1 <lang n="czech">velmi nízkého původu</lang>
+1173c1173
+< <div n="1"/>1 <lang n="czech">nesprávný čin, nеspravedlnost</lang>
+---
+> <div n="1"/>1 <lang n="czech">nesprávný čin, nespravedlnost</lang>
+1265c1265
+< <div n="1"/>3 <lang n="english">а ruler, king</lang>
+---
+> <div n="1"/>3 <lang n="english">a ruler, king</lang>
+1318c1318
+< <div n="1"/>2 <lang n="russian">c головой вниз</lang>
+---
+> <div n="1"/>2 <lang n="russian">с головой вниз</lang>
+1324c1324
+< <div n="1"/>2 <lang n="russian">c лицом обращенным вниз</lang>
+---
+> <div n="1"/>2 <lang n="russian">с лицом обращенным вниз</lang>
+1349c1349
+< <div n="1"/>3 <lang n="english">а teacher</lang>
+---
+> <div n="1"/>3 <lang n="english">a teacher</lang>
+1379c1379
+< <div n="1"/>3 <lang n="english">а way, march, distance</lang>
+---
+> <div n="1"/>3 <lang n="english">a way, march, distance</lang>
+1543c1543
+< <div n="1"/>2 <lang n="russian">c безупречным телом</lang>
+---
+> <div n="1"/>2 <lang n="russian">с безупречным телом</lang>
+1704c1704
+< <div n="1"/>1 <lang n="czech">ležící nа břehu, příznivý, příjemný</lang>
+---
+> <div n="1"/>1 <lang n="czech">ležící na břehu, příznivý, příjemný</lang>
+1746c1746
+< <div n="1"/>1 <lang n="czech">později zrozený; m. mladší bratг</lang>
+---
+> <div n="1"/>1 <lang n="czech">později zrozený; m. mladší bratr</lang>
+2099c2099
+< <div n="1"/>3 <lang n="english">intermediate time; -е meanwhile</lang>
+---
+> <div n="1"/>3 <lang n="english">intermediate time; -e meanwhile</lang>
+2135c2135
+<  +anti  +gen.
+---
+>  +anti +gen.
+2162c2162
+< <div n="1"/>3 <lang n="english">а pupil</lang>
+---
+> <div n="1"/>3 <lang n="english">a pupil</lang>
+2345c2345
+< prep.  +abl.
+---
+> prep. +abl.
+2384c2384
+< <div n="1"/>3 <lang n="english">not killing а husband</lang>
+---
+> <div n="1"/>3 <lang n="english">not killing a husband</lang>
+2396c2396
+< <div n="1"/>3 <lang n="english">offspring, child, а young one</lang>
+---
+> <div n="1"/>3 <lang n="english">offspring, child, a young one</lang>
+2402c2402
+< <div n="1"/>3 <lang n="english">а noble work</lang>
+---
+> <div n="1"/>3 <lang n="english">a noble work</lang>
+2560c2560
+< <div n="1"/>2 <lang n="russian">и, тоже, дальше, право, только; (арi часто употребляется в качестве эмфатической частицы, иногда выражает сомнение или неуверенность; в начале предложения может выступать в значении вопросительной частицы)</lang>
+---
+> <div n="1"/>2 <lang n="russian">и, тоже, дальше, право, только; (api часто употребляется в качестве эмфатической частицы, иногда выражает сомнение или неуверенность; в начале предложения может выступать в значении вопросительной частицы)</lang>
+2793c2793
+< <div n="1"/>1 <lang n="czech">nezlomený, nezlomný, nepomíjející (о slávě)</lang>
+---
+> <div n="1"/>1 <lang n="czech">nezlomený, nezlomný, nepomíjející (o slávě)</lang>
+2985,2986c2985,2986
+< <div n="1"/>1 <lang n="czech">s tváří obrácenou к něčemu, mířící, obírající se něčím</lang>
+< <div n="1"/>2 <lang n="russian">c лицом обращенным к чему-нибудь, направляющийся, занимающийся чем-нибудь</lang>
+---
+> <div n="1"/>1 <lang n="czech">s tváří obrácenou k něčemu, mířící, obírající se něčím</lang>
+> <div n="1"/>2 <lang n="russian">с лицом обращенным к чему-нибудь, направляющийся, занимающийся чем-нибудь</lang>
+3017c3017
+< <div n="1"/>3 <lang n="english">а protector, guardian</lang>
+---
+> <div n="1"/>3 <lang n="english">a protector, guardian</lang>
+3039c3039
+< <div n="1"/>1 <lang n="czech">vzrostlý, zmohutnělý, rozvodněný (о řece)</lang>
+---
+> <div n="1"/>1 <lang n="czech">vzrostlý, zmohutnělý, rozvodněný (o řece)</lang>
+3360c3360
+< <div n="1"/>1 <lang n="czech">пе marný, užitečný</lang>
+---
+> <div n="1"/>1 <lang n="czech">ne marný, užitečný</lang>
+3500c3500
+< <div n="1"/>3 <lang n="english">а piece of wood used for kindling fire by attrition</lang>
+---
+> <div n="1"/>3 <lang n="english">a piece of wood used for kindling fire by attrition</lang>
+3530c3530
+< <div n="1"/>3 <lang n="english">а kind of evil spirits</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of evil spirits</lang>
+3617c3617
+< <div n="1"/>3 <lang n="english">гау of light, flame, light</lang>
+---
+> <div n="1"/>3 <lang n="english">ray of light, flame, light</lang>
+3738c3738
+< <div n="1"/>1 <lang n="czech">dělící se о půl; druh</lang>
+---
+> <div n="1"/>1 <lang n="czech">dělící se o půl; druh</lang>
+3759c3759
+< <div n="1"/>1 <lang n="czech">hozen, upjat (о myslí), podaný</lang>
+---
+> <div n="1"/>1 <lang n="czech">hozen, upjat (o myslí), podaný</lang>
+3836c3836
+<  +alam  + instr.
+---
+>  +alam + instr.
+3867c3867
+< <div n="1"/>1 <lang n="czech">nevyskytující se nа světě, neobvyklý, nadpřirozený</lang>
+---
+> <div n="1"/>1 <lang n="czech">nevyskytující se na světě, neobvyklý, nadpřirozený</lang>
+3965c3965
+< <div n="1"/>3 <lang n="english">а part (of a body), a limb</lang>
+---
+> <div n="1"/>3 <lang n="english">a part (of a body), a limb</lang>
+4261c4261
+< <div n="1"/>2 <lang n="russian">c непобедимым телом</lang>
+---
+> <div n="1"/>2 <lang n="russian">с непобедимым телом</lang>
+4469c4469
+< <div n="1"/>3 <lang n="english">(а thief) happened (to be caught)</lang>
+---
+> <div n="1"/>3 <lang n="english">(a thief) happened (to be caught)</lang>
+4491c4491
+< <div n="1"/>1 <lang n="czech">klásti dolů, klásti па, roztáhnouti (údy)</lang>
+---
+> <div n="1"/>1 <lang n="czech">klásti dolů, klásti na, roztáhnouti (údy)</lang>
+4565c4565
+< <div n="1"/>3 <lang n="english">а missile, arrow</lang>
+---
+> <div n="1"/>3 <lang n="english">a missile, arrow</lang>
+4624c4624
+< <div n="1"/>2 <lang n="russian">c мечом в руках</lang>
+---
+> <div n="1"/>2 <lang n="russian">с мечом в руках</lang>
+4782c4782
+< <div n="1"/>1 <lang n="czech">spor о to, kdo je lepší</lang>
+---
+> <div n="1"/>1 <lang n="czech">spor o to, kdo je lepší</lang>
+4842c4842
+< <div n="1"/>1 <lang n="czech">den а noc</lang>
+---
+> <div n="1"/>1 <lang n="czech">den a noc</lang>
+4844c4844
+< <div n="1"/>3 <lang n="english">а day and night</lang>
+---
+> <div n="1"/>3 <lang n="english">a day and night</lang>
+4913c4913
+< <div n="1"/>3 <lang n="english">а free space, atmosphere, ether</lang>
+---
+> <div n="1"/>3 <lang n="english">a free space, atmosphere, ether</lang>
+4924c4924
+< <div n="1"/>2 <lang n="russian">сбитый c толку, взволнованный, полный</lang>
+---
+> <div n="1"/>2 <lang n="russian">сбитый с толку, взволнованный, полный</lang>
+4941c4941
+< <div n="1"/>1 <lang n="czech">zasažen, uchvácen (о srdci)</lang>
+---
+> <div n="1"/>1 <lang n="czech">zasažen, uchvácen (o srdci)</lang>
+4967c4967
+< <div n="1"/>3 <lang n="english">а short narrative, episode</lang>
+---
+> <div n="1"/>3 <lang n="english">a short narrative, episode</lang>
+5039c5039
+< <div n="1"/>3 <lang n="english">а teacher, spiritual guide</lang>
+---
+> <div n="1"/>3 <lang n="english">a teacher, spiritual guide</lang>
+5128c5128
+< <div n="1"/>2 <lang n="russian">рожденный сам oт себя, им самим; m. сын</lang>
+---
+> <div n="1"/>2 <lang n="russian">рожденный сам от себя, им самим; m. сын</lang>
+5234c5234
+< <div n="1"/>3 <lang n="english">ап account, instruction, precept</lang>
+---
+> <div n="1"/>3 <lang n="english">an account, instruction, precept</lang>
+5256c5256
+< <div n="1"/>1 <lang n="czech">орога, základ, substrát; nádrž (nа vodu), obor působnosti</lang>
+---
+> <div n="1"/>1 <lang n="czech">opora, základ, substrát; nádrž (na vodu), obor působnosti</lang>
+5399c5399
+< <div n="1"/>3 <lang n="english">а descendant or pupil of Āpas- tamba</lang>
+---
+> <div n="1"/>3 <lang n="english">a descendant or pupil of Āpas- tamba</lang>
+5471c5471
+< <div n="1"/>3 <lang n="english">а saying, aphorism</lang>
+---
+> <div n="1"/>3 <lang n="english">a saying, aphorism</lang>
+5495c5495
+< <div n="1"/>3 <lang n="english">а mango forest</lang>
+---
+> <div n="1"/>3 <lang n="english">a mango forest</lang>
+5570c5570
+< <div n="1"/>3 <lang n="english">а watchman, guard</lang>
+---
+> <div n="1"/>3 <lang n="english">a watchman, guard</lang>
+5587c5587
+< <div n="1"/>2 <lang n="russian">начиная; c</lang>
+---
+> <div n="1"/>2 <lang n="russian">начиная; с</lang>
+5631c5631
+< <div n="1"/>1 <lang n="czech">zvedání, nasazování tětivy nа luk</lang>
+---
+> <div n="1"/>1 <lang n="czech">zvedání, nasazování tětivy na luk</lang>
+5679c5679
+< <div n="1"/>1 <lang n="czech">svoḥodný, ctihodný, vznešený; m. Āгуа, příslušník prvých tří varṇů</lang>
+---
+> <div n="1"/>1 <lang n="czech">svoḥodný, ctihodný, vznešený; m. Ārya, příslušník prvých tří varṇů</lang>
+5709c5709
+< <div n="1"/>1 <lang n="czech">udržování, орога</lang>
+---
+> <div n="1"/>1 <lang n="czech">udržování, opora</lang>
+5837c5837
+< āveśita (pp. caus. ≺ viś) 
+---
+> āveśita (pp. caus. <viś) 
+5904c5904
+< <div n="1"/>1 <lang n="czech">sídlo, útočiště; орога, pomoc, závislost, oddanost, oddání</lang>
+---
+> <div n="1"/>1 <lang n="czech">sídlo, útočiště; opora, pomoc, závislost, oddanost, oddání</lang>
+5906c5906
+< <div n="1"/>3 <lang n="english">а resting place, asylum; support, help, dependence, attachment</lang>
+---
+> <div n="1"/>3 <lang n="english">a resting place, asylum; support, help, dependence, attachment</lang>
+5999c5999
+< <div n="1"/>3 <lang n="english">sitting, а peculiar posture of sitting, seat, stool</lang>
+---
+> <div n="1"/>3 <lang n="english">sitting, a peculiar posture of sitting, seat, stool</lang>
+6033c6033
+< <div n="1"/>1 <lang n="czech">úder (nа paže)</lang>
+---
+> <div n="1"/>1 <lang n="czech">úder (na paže)</lang>
+6103c6103
+< <div n="1"/>2 <lang n="russian">итти, ехать; течь; дуть; двигаться вперед; приходить, достигать; обращаться c просьбой, просить</lang>
+---
+> <div n="1"/>2 <lang n="russian">итти, ехать; течь; дуть; двигаться вперед; приходить, достигать; обращаться с просьбой, просить</lang>
+6115c6115
+< <div n="1"/>2 <lang n="russian">спешить, бежать; приходить, приезжать; обращаться c просьбой, просить</lang>
+---
+> <div n="1"/>2 <lang n="russian">спешить, бежать; приходить, приезжать; обращаться с просьбой, просить</lang>
+6132c6132
+< <div n="1"/>1 <lang n="czech">obraceti mysl k něčemu, chápati, znáti; míti nа раměti, dbáti; hlásati, učiti</lang>
+---
+> <div n="1"/>1 <lang n="czech">obraceti mysl k něčemu, chápati, znáti; míti na paměti, dbáti; hlásati, učiti</lang>
+6192c6192
+< <div n="1"/>1 <lang n="czech">jíti vzhůru, vycházeti (о slunci), zvedati se; vznikati; vzrůstati</lang>
+---
+> <div n="1"/>1 <lang n="czech">jíti vzhůru, vycházeti (o slunci), zvedati se; vznikati; vzrůstati</lang>
+6205c6205
+< <div n="1"/>2 <lang n="russian">приходить вместе c кем-нибудь</lang>
+---
+> <div n="1"/>2 <lang n="russian">приходить вместе с кем-нибудь</lang>
+6312c6312
+< <div n="1"/>1 <lang n="czech">společně jíti vzhůru; scházeti se; vycházeti (о slunci)</lang>
+---
+> <div n="1"/>1 <lang n="czech">společně jíti vzhůru; scházeti se; vycházeti (o slunci)</lang>
+6427c6427
+< <div n="1"/>2 <lang n="russian">c этой целью, потому</lang>
+---
+> <div n="1"/>2 <lang n="russian">с этой целью, потому</lang>
+6735c6735
+< <div n="1"/>1 <lang n="czech">pohled, dohlížení, péce; око</lang>
+---
+> <div n="1"/>1 <lang n="czech">pohled, dohlížení, péce; oko</lang>
+6873c6873
+< <div n="1"/>1 <lang n="czech">spěchati, параdati, prchati</lang>
+---
+> <div n="1"/>1 <lang n="czech">spěchati, napadati, prchati</lang>
+6897c6897
+< <div n="1"/>1 <lang n="czech">toužiti, mysliti паč</lang>
+---
+> <div n="1"/>1 <lang n="czech">toužiti, mysliti nač</lang>
+6983c6983
+< <div n="1"/>3 <lang n="english">а loft watch-tower</lang>
+---
+> <div n="1"/>3 <lang n="english">a loft watch-tower</lang>
+6987c6987
+< <div n="1"/>1 <lang n="czech">to, со vychází z těla, odpadek</lang>
+---
+> <div n="1"/>1 <lang n="czech">to, co vychází z těla, odpadek</lang>
+7046c7046
+< <div n="1"/>3 <lang n="english">а hut made of leaves</lang>
+---
+> <div n="1"/>3 <lang n="english">a hut made of leaves</lang>
+7101c7101
+< <div n="1"/>1 <lang n="czech">vykopaný, vytažený (о mecí)</lang>
+---
+> <div n="1"/>1 <lang n="czech">vykopaný, vytažený (o mecí)</lang>
+7285c7285
+< <div n="1"/>2 <lang n="russian">горшок c водой, горшок для воды</lang>
+---
+> <div n="1"/>2 <lang n="russian">горшок с водой, горшок для воды</lang>
+7291c7291
+< <div n="1"/>2 <lang n="russian">c головой на север</lang>
+---
+> <div n="1"/>2 <lang n="russian">с головой на север</lang>
+7297c7297
+< <div n="1"/>2 <lang n="russian">c остриями на север (о жертвенной траве)</lang>
+---
+> <div n="1"/>2 <lang n="russian">с остриями на север (о жертвенной траве)</lang>
+7327c7327
+< <div n="1"/>2 <lang n="russian">сосуд c водой</lang>
+---
+> <div n="1"/>2 <lang n="russian">сосуд с водой</lang>
+7422c7422
+< <div n="1"/>1 <lang n="czech">s ohledem nаč, vzhledem k čemu</lang>
+---
+> <div n="1"/>1 <lang n="czech">s ohledem nač, vzhledem k čemu</lang>
+7464c7464
+< <div n="1"/>1 <lang n="czech">vyrážející ze země (о rostlině)</lang>
+---
+> <div n="1"/>1 <lang n="czech">vyrážející ze země (o rostlině)</lang>
+7472c7472
+< <div n="1"/>3 <lang n="english">а sprout or shoot (of a plant)</lang>
+---
+> <div n="1"/>3 <lang n="english">a sprout or shoot (of a plant)</lang>
+7495c7495
+< <div n="1"/>2 <lang n="russian">соединенный c чем ни будь, готовый, усердный</lang>
+---
+> <div n="1"/>2 <lang n="russian">соединенный с чем ни будь, готовый, усердный</lang>
+7577c7577
+< <div n="1"/>3 <lang n="english">doing а service, assisting, contribution, implement, means</lang>
+---
+> <div n="1"/>3 <lang n="english">doing a service, assisting, contribution, implement, means</lang>
+7625c7625
+< <div n="1"/>3 <lang n="english">а female servant</lang>
+---
+> <div n="1"/>3 <lang n="english">a female servant</lang>
+7659c7659
+< <div n="1"/>1 <lang n="czech">uvedení do vědv nebo к učiteli</lang>
+---
+> <div n="1"/>1 <lang n="czech">uvedení do vědv nebo k učiteli</lang>
+7805c7805
+< <div n="1"/>3 <lang n="english">а fast</lang>
+---
+> <div n="1"/>3 <lang n="english">a fast</lang>
+7833c7833
+< <div n="1"/>1 <lang n="czech">sebraný dohromady, upjatý nač (о mysli), odnesený, potlačený</lang>
+---
+> <div n="1"/>1 <lang n="czech">sebraný dohromady, upjatý nač (o mysli), odnesený, potlačený</lang>
+7925c7925
+< <div n="1"/>3 <lang n="english">а sandal, shoe</lang>
+---
+> <div n="1"/>3 <lang n="english">a sandal, shoe</lang>
+8030c8030
+< <div n="1"/>3 <lang n="english">а kind of wild animal (a jackal?)</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of wild animal (a jackal?)</lang>
+8034c8034
+< <div n="1"/>1 <lang n="czech">ohnivá záře nа nebi, meteor</lang>
+---
+> <div n="1"/>1 <lang n="czech">ohnivá záře na nebi, meteor</lang>
+8036c8036
+< <div n="1"/>3 <lang n="english">а fiery phenomenon in the sky, a meteor</lang>
+---
+> <div n="1"/>3 <lang n="english">a fiery phenomenon in the sky, a meteor</lang>
+8161c8161
+< <div n="1"/>2 <lang n="russian">выше; no</lang>
+---
+> <div n="1"/>2 <lang n="russian">выше; по</lang>
+8294c8294
+< <div n="1"/>3 <lang n="english">а bull, the best of any kind</lang>
+---
+> <div n="1"/>3 <lang n="english">a bull, the best of any kind</lang>
+8300c8300
+< <div n="1"/>3 <lang n="english">а singer of vedic hymns, a saint, an ascetic</lang>
+---
+> <div n="1"/>3 <lang n="english">a singer of vedic hymns, a saint, an ascetic</lang>
+8394c8394
+< <div n="1"/>1 <lang n="czech">nа jedno zaměřený, pozorný</lang>
+---
+> <div n="1"/>1 <lang n="czech">na jedno zaměřený, pozorný</lang>
+8424c8424
+< <div n="1"/>1 <lang n="czech">na jednom místě, výlučně, zcela, stranou, о samotě</lang>
+---
+> <div n="1"/>1 <lang n="czech">na jednom místě, výlučně, zcela, stranou, o samotě</lang>
+8547c8547
+< <div n="1"/>1 <lang n="czech">svrchovaná vláda, mос</lang>
+---
+> <div n="1"/>1 <lang n="czech">svrchovaná vláda, moc</lang>
+8600c8600
+< <div n="1"/>3 <lang n="english">а herb, plant, a medicinal plant</lang>
+---
+> <div n="1"/>3 <lang n="english">a herb, plant, a medicinal plant</lang>
+8625c8625
+< <div n="1"/>1 <lang n="czech">kdo?, со?, který?</lang>
+---
+> <div n="1"/>1 <lang n="czech">kdo?, co?, který?</lang>
+8659c8659
+< <div n="1"/>2 <lang n="russian">вершина горы, горб (y животных); верхняя часть; начальник</lang>
+---
+> <div n="1"/>2 <lang n="russian">вершина горы, горб (у животных); верхняя часть; начальник</lang>
+8675c8675
+< <div n="1"/>3 <lang n="english">а girdle, wall, enclosure</lang>
+---
+> <div n="1"/>3 <lang n="english">a girdle, wall, enclosure</lang>
+8706c8706
+< <div n="1"/>1 <lang n="czech">řezavý, ostrý (о chuti), kousavý (о slovech)</lang>
+---
+> <div n="1"/>1 <lang n="czech">řezavý, ostrý (o chuti), kousavý (o slovech)</lang>
+8735c8735
+< <div n="1"/>3 <lang n="english">а thorn, fish bone, а nuisance, an enemy</lang>
+---
+> <div n="1"/>3 <lang n="english">a thorn, fish bone, a nuisance, an enemy</lang>
+8799c8799
+< <div n="1"/>1 <lang n="czech">nijak, vůbec nе</lang>
+---
+> <div n="1"/>1 <lang n="czech">nijak, vůbec ne</lang>
+8801c8801
+< <div n="1"/>3 <lang n="english">in nо way, not at all</lang>
+---
+> <div n="1"/>3 <lang n="english">in no way, not at all</lang>
+8823c8823
+< <div n="1"/>1 <lang n="czech">nač mluvit (о) ?, tím spíše</lang>
+---
+> <div n="1"/>1 <lang n="czech">nač mluvit (o) ?, tím spíše</lang>
+8919c8919
+< <div n="1"/>1 <lang n="czech">dívka, раnnа, dcera</lang>
+---
+> <div n="1"/>1 <lang n="czech">dívka, panna, dcera</lang>
+8921c8921
+< <div n="1"/>3 <lang n="english">а girl, virgin, daughter</lang>
+---
+> <div n="1"/>3 <lang n="english">a girl, virgin, daughter</lang>
+8927c8927
+< <div n="1"/>3 <lang n="english">giving а daughter in marriage</lang>
+---
+> <div n="1"/>3 <lang n="english">giving a daughter in marriage</lang>
+8945c8945
+< <div n="1"/>3 <lang n="english">а small shell; knotted hair (resembling a shell)</lang>
+---
+> <div n="1"/>3 <lang n="english">a small shell; knotted hair (resembling a shell)</lang>
+8957c8957
+< <div n="1"/>3 <lang n="english">а half, part</lang>
+---
+> <div n="1"/>3 <lang n="english">a half, part</lang>
+9072c9072
+< <div n="1"/>1 <lang n="czech">častо nebo horlivě něco konati</lang>
+---
+> <div n="1"/>1 <lang n="czech">často nebo horlivě něco konati</lang>
+9139c9139
+< <div n="1"/>2 <lang n="russian">класть в сторону, устранять; крыть, скрывать; порицать, ругать, презирать, презрительно поступать c кем-нибудь</lang>
+---
+> <div n="1"/>2 <lang n="russian">класть в сторону, устранять; крыть, скрывать; порицать, ругать, презирать, презрительно поступать с кем-нибудь</lang>
+9193c9193
+< <div n="1"/>2 <lang n="russian">презрительно поступать c кем-нибудь, оскорблять, ранить, притеснять</lang>
+---
+> <div n="1"/>2 <lang n="russian">презрительно поступать с кем-нибудь, оскорблять, ранить, притеснять</lang>
+9261c9261
+< <div n="1"/>1 <lang n="czech">nádoba nа vodu</lang>
+---
+> <div n="1"/>1 <lang n="czech">nádoba na vodu</lang>
+9263c9263
+< <div n="1"/>3 <lang n="english">а water-pot</lang>
+---
+> <div n="1"/>3 <lang n="english">a water-pot</lang>
+9303c9303
+< <div n="1"/>1 <lang n="czech">bohatý nа hnůj</lang>
+---
+> <div n="1"/>1 <lang n="czech">bohatý na hnůj</lang>
+9365c9365
+< <div n="1"/>3 <lang n="english">а doer, maker, creator, author, one who acts in a ceremony (= a priest)</lang>
+---
+> <div n="1"/>3 <lang n="english">a doer, maker, creator, author, one who acts in a ceremony (= a priest)</lang>
+9369c9369
+< <div n="1"/>1 <lang n="czech">který má být dělán nebo (о králi) zvolen</lang>
+---
+> <div n="1"/>1 <lang n="czech">který má být dělán nebo (o králi) zvolen</lang>
+9417c9417
+< <div n="1"/>1 <lang n="czech">táhnouti k sobě, tasiti (meč), napínati (luk), bráti, obírati о něco</lang>
+---
+> <div n="1"/>1 <lang n="czech">táhnouti k sobě, tasiti (meč), napínati (luk), bráti, obírati o něco</lang>
+9453c9453
+< <div n="1"/>1 <lang n="czech">němý, nezřetelný, mírný, melodický (о zvuku)</lang>
+---
+> <div n="1"/>1 <lang n="czech">němý, nezřetelný, mírný, melodický (o zvuku)</lang>
+9497c9497
+< <div n="1"/>3 <lang n="english">а small part, portion, a division of time, 1/16 of the moon's diameter, art, skill</lang>
+---
+> <div n="1"/>3 <lang n="english">a small part, portion, a division of time, 1/16 of the moon's diameter, art, skill</lang>
+9515c9515
+< <div n="1"/>3 <lang n="english">а sixteenth part of the moon, a bud</lang>
+---
+> <div n="1"/>3 <lang n="english">a sixteenth part of the moon, a bud</lang>
+9561c9561
+< <div n="1"/>1 <lang n="czech">proveditelný, vhodný, schopný; podobný; m. příkaz, ргаvidlo, předpis, léčení; Brahmův den</lang>
+---
+> <div n="1"/>1 <lang n="czech">proveditelný, vhodný, schopný; podobný; m. příkaz, pravidlo, předpis, léčení; Brahmův den</lang>
+9686c9686
+< <div n="1"/>3 <lang n="english">the portion of а plant from one knot to another, stalk, stem, cane, arrow, a section, a part</lang>
+---
+> <div n="1"/>3 <lang n="english">the portion of a plant from one knot to another, stalk, stem, cane, arrow, a section, a part</lang>
+9800c9800
+< <div n="1"/>3 <lang n="english">а cause, reason, motive, instrument, organ of sense; element</lang>
+---
+> <div n="1"/>3 <lang n="english">a cause, reason, motive, instrument, organ of sense; element</lang>
+9872c9872
+< <div n="1"/>3 <lang n="english">а dark night, night of destruction</lang>
+---
+> <div n="1"/>3 <lang n="english">a dark night, night of destruction</lang>
+9896c9896
+< <div n="1"/>3 <lang n="english">name of а river in the south of India</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a river in the south of India</lang>
+9902c9902
+< <div n="1"/>3 <lang n="english">а роеm, poetry</lang>
+---
+> <div n="1"/>3 <lang n="english">a poem, poetry</lang>
+9940c9940
+< <div n="1"/>2 <lang n="russian">сказочное существо c лошадиной головой</lang>
+---
+> <div n="1"/>2 <lang n="russian">сказочное существо с лошадиной головой</lang>
+10023c10023
+< <div n="1"/>1 <lang n="czech">proč?, k čemu?, nаč?</lang>
+---
+> <div n="1"/>1 <lang n="czech">proč?, k čemu?, nač?</lang>
+10073c10073
+< <div n="1"/>3 <lang n="english">leprous; n. leprosy, а white spot in the skin</lang>
+---
+> <div n="1"/>3 <lang n="english">leprous; n. leprosy, a white spot in the skin</lang>
+10085c10085
+< <div n="1"/>3 <lang n="english">reed; n. pr. name of а man</lang>
+---
+> <div n="1"/>3 <lang n="english">reed; n. pr. name of a man</lang>
+10142c10142
+< <div n="1"/>3 <lang n="english">а bad girl or daughter</lang>
+---
+> <div n="1"/>3 <lang n="english">a bad girl or daughter</lang>
+10158c10158
+< <div n="1"/>1 <lang n="czech">pečující jen о svůj žaludek, sobecký</lang>
+---
+> <div n="1"/>1 <lang n="czech">pečující jen o svůj žaludek, sobecký</lang>
+10196c10196
+< <div n="1"/>3 <lang n="english">а bad man</lang>
+---
+> <div n="1"/>3 <lang n="english">a bad man</lang>
+10226c10226
+< <div n="1"/>3 <lang n="english">а household, family</lang>
+---
+> <div n="1"/>3 <lang n="english">a household, family</lang>
+10307c10307
+< <div n="1"/>3 <lang n="english">а kind of bird</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of bird</lang>
+10362c10362
+< <div n="1"/>1 <lang n="czech">jméno boha bohatství а pokladů, pána démonů</lang>
+---
+> <div n="1"/>1 <lang n="czech">jméno boha bohatství a pokladů, pána démonů</lang>
+10382c10382
+< <div n="1"/>3 <lang n="english">а child, son, boy, youth; a prince; n. pr.</lang>
+---
+> <div n="1"/>3 <lang n="english">a child, son, boy, youth; a prince; n. pr.</lang>
+10391c10391
+< <div n="1"/>3 <lang n="english">а bad friend</lang>
+---
+> <div n="1"/>3 <lang n="english">a bad friend</lang>
+10415c10415
+< <div n="1"/>3 <lang n="english">а bad king</lang>
+---
+> <div n="1"/>3 <lang n="english">a bad king</lang>
+10457c10457
+< <div n="1"/>3 <lang n="english">а family, race, collection, herd, troop, multitude, the residence of a family, an abode</lang>
+---
+> <div n="1"/>3 <lang n="english">a family, race, collection, herd, troop, multitude, the residence of a family, an abode</lang>
+10479c10479
+< <div n="1"/>1 <lang n="czech">гak</lang>
+---
+> <div n="1"/>1 <lang n="czech">rak</lang>
+10487c10487
+< <div n="1"/>3 <lang n="english">а river, canal</lang>
+---
+> <div n="1"/>3 <lang n="english">a river, canal</lang>
+10565c10565
+< <div n="1"/>3 <lang n="english">а bunch of twigs</lang>
+---
+> <div n="1"/>3 <lang n="english">a bunch of twigs</lang>
+10577c10577
+< <div n="1"/>3 <lang n="english">being in а hole or well</lang>
+---
+> <div n="1"/>3 <lang n="english">being in a hole or well</lang>
+10632c10632
+< <div n="1"/>1 <lang n="czech">znalý toho, со bylo uděleno, vděčný</lang>
+---
+> <div n="1"/>1 <lang n="czech">znalý toho, co bylo uděleno, vděčný</lang>
+10657c10657
+< <div n="1"/>2 <lang n="russian">c дисциплинированными мыслями</lang>
+---
+> <div n="1"/>2 <lang n="russian">с дисциплинированными мыслями</lang>
+10757c10757
+< <div n="1"/>3 <lang n="english">а ploughman</lang>
+---
+> <div n="1"/>3 <lang n="english">a ploughman</lang>
+10818c10818
+< <div n="1"/>1 <lang n="czech">světlý, jasný, pronikavý (о zvuku)</lang>
+---
+> <div n="1"/>1 <lang n="czech">světlý, jasný, pronikavý (o zvuku)</lang>
+10832c10832
+< <div n="1"/>3 <lang n="english">а bracelet</lang>
+---
+> <div n="1"/>3 <lang n="english">a bracelet</lang>
+10868c10868
+< <div n="1"/>3 <lang n="english">а femal servant arranging the hair of the head</lang>
+---
+> <div n="1"/>3 <lang n="english">a femal servant arranging the hair of the head</lang>
+10986c10986
+< <div n="1"/>1 <lang n="czech">dětství, jinošství, раnenství</lang>
+---
+> <div n="1"/>1 <lang n="czech">dětství, jinošství, panenství</lang>
+11073c11073
+< <div n="1"/>1 <lang n="czech">překročovati, vynikati, vylévati se (z břehů, о řece)</lang>
+---
+> <div n="1"/>1 <lang n="czech">překročovati, vynikati, vylévati se (z břehů, o řece)</lang>
+11147c11147
+< <div n="1"/>3 <lang n="english">а step, proceeding, course, method, manner, order, series, succession</lang>
+---
+> <div n="1"/>3 <lang n="english">a step, proceeding, course, method, manner, order, series, succession</lang>
+11327c11327
+< <div n="1"/>3 <lang n="english">in а certain place, to any place</lang>
+---
+> <div n="1"/>3 <lang n="english">in a certain place, to any place</lang>
+11366c11366
+< <div n="1"/>3 <lang n="english">а member of the military (reigning) order</lang>
+---
+> <div n="1"/>3 <lang n="english">a member of the military (reigning) order</lang>
+11451c11451
+< <div n="1"/>1 <lang n="czech">bydliti u čeho, záviseti nа čem</lang>
+---
+> <div n="1"/>1 <lang n="czech">bydliti u čeho, záviseti na čem</lang>
+11511c11511
+< <div n="1"/>1 <lang n="czech">házeti, skládati, vkládati, vrážeti (nа kůl), ukládati, svěřovati, opouštěti</lang>
+---
+> <div n="1"/>1 <lang n="czech">házeti, skládati, vkládati, vrážeti (na kůl), ukládati, svěřovati, opouštěti</lang>
+11627c11627
+< <div n="1"/>3 <lang n="english">а bush, shrub</lang>
+---
+> <div n="1"/>3 <lang n="english">a bush, shrub</lang>
+11815c11815
+< <div n="1"/>2 <lang n="russian">rope, удрученность, исчерпанность</lang>
+---
+> <div n="1"/>2 <lang n="russian">горе, удрученность, исчерпанность</lang>
+11840c11840
+< <div n="1"/>3 <lang n="english">to behold; tell, саll, enumerate</lang>
+---
+> <div n="1"/>3 <lang n="english">to behold; tell, call, enumerate</lang>
+11856c11856
+< <div n="1"/>1 <lang n="czech">říkati, vysvětlovati, ргоjednávati</lang>
+---
+> <div n="1"/>1 <lang n="czech">říkati, vysvětlovati, projednávati</lang>
+11930c11930
+< <div n="1"/>3 <lang n="english">а courtezan</lang>
+---
+> <div n="1"/>3 <lang n="english">a courtezan</lang>
+11936c11936
+< <div n="1"/>3 <lang n="english">reckoning, а sum, mathematics</lang>
+---
+> <div n="1"/>3 <lang n="english">reckoning, a sum, mathematics</lang>
+11955c11955
+< <div n="1"/>1 <lang n="czech">odešlý, minulý, mrtvý; jenž přišel, jsoucí, vztahující se; о mysli: upjatý; n. pohyb, cesta, způsob</lang>
+---
+> <div n="1"/>1 <lang n="czech">odešlý, minulý, mrtvý; jenž přišel, jsoucí, vztahující se; o mysli: upjatý; n. pohyb, cesta, způsob</lang>
+12023c12023
+< <div n="1"/>3 <lang n="english">а celestial musician, a singer in general</lang>
+---
+> <div n="1"/>3 <lang n="english">a celestial musician, a singer in general</lang>
+12039c12039
+< <div n="1"/>1 <lang n="czech">jíti, přijíti, dosáhnouti, odejíti, minouti (о čase)</lang>
+---
+> <div n="1"/>1 <lang n="czech">jíti, přijíti, dosáhnouti, odejíti, minouti (o čase)</lang>
+12197c12197
+< <div n="1"/>3 <lang n="english">name of а mythical bird</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a mythical bird</lang>
+12209c12209
+< <div n="1"/>3 <lang n="english">а thunder, tumult, roaring</lang>
+---
+> <div n="1"/>3 <lang n="english">a thunder, tumult, roaring</lang>
+12326c12326
+< <div n="1"/>3 <lang n="english">а limb or member of the body; the body</lang>
+---
+> <div n="1"/>3 <lang n="english">a limb or member of the body; the body</lang>
+12385,12386c12385,12386
+< <div n="1"/>2 <lang n="russian">площадка на rope</lang>
+< <div n="1"/>3 <lang n="english">а table-land of a mountain</lang>
+---
+> <div n="1"/>2 <lang n="russian">площадка на горе</lang>
+> <div n="1"/>3 <lang n="english">a table-land of a mountain</lang>
+12417c12417
+< <div n="1"/>1 <lang n="czech">sestávající ze složek nebо ctností</lang>
+---
+> <div n="1"/>1 <lang n="czech">sestávající ze složek nebo ctností</lang>
+12446c12446
+< <div n="1"/>3 <lang n="english">to defend, protect, observe (а law)</lang>
+---
+> <div n="1"/>3 <lang n="english">to defend, protect, observe (a law)</lang>
+12503c12503
+< <div n="1"/>3 <lang n="english">а hiding-place, cave, the heart</lang>
+---
+> <div n="1"/>3 <lang n="english">a hiding-place, cave, the heart</lang>
+12548c12548
+< <div n="1"/>3 <lang n="english">а servant; m. n. a house, mansion; m. pl. the inhabitants of a house, wife</lang>
+---
+> <div n="1"/>3 <lang n="english">a servant; m. n. a house, mansion; m. pl. the inhabitants of a house, wife</lang>
+12554c12554
+< <div n="1"/>3 <lang n="english">(а slave) born in the house</lang>
+---
+> <div n="1"/>3 <lang n="english">(a slave) born in the house</lang>
+12596c12596
+< <div n="1"/>3 <lang n="english">belonging to а house, domestic</lang>
+---
+> <div n="1"/>3 <lang n="english">belonging to a house, domestic</lang>
+12600c12600
+< <div n="1"/>1 <lang n="czech">příručka о domácích obřadech</lang>
+---
+> <div n="1"/>1 <lang n="czech">příručka o domácích obřadech</lang>
+12623c12623
+< <div n="1"/>3 <lang n="english">а bull, an ox, beef, skin, milk; herds of the sky = the stars, rays of light; f. a cow, the earth</lang>
+---
+> <div n="1"/>3 <lang n="english">a bull, an ox, beef, skin, milk; herds of the sky = the stars, rays of light; f. a cow, the earth</lang>
+12629c12629
+< <div n="1"/>3 <lang n="english">а herd or station of cattle</lang>
+---
+> <div n="1"/>3 <lang n="english">a herd or station of cattle</lang>
+12656c12656
+< <div n="1"/>3 <lang n="english">а cowherd, guardian</lang>
+---
+> <div n="1"/>3 <lang n="english">a cowherd, guardian</lang>
+12683c12683
+< <div n="1"/>3 <lang n="english">а cowherd, king; n. pr.</lang>
+---
+> <div n="1"/>3 <lang n="english">a cowherd, king; n. pr.</lang>
+12728c12728
+< <div n="1"/>3 <lang n="english">а cow-pen, stall, meeting-place</lang>
+---
+> <div n="1"/>3 <lang n="english">a cow-pen, stall, meeting-place</lang>
+12749c12749
+< <div n="1"/>3 <lang n="english">а divine female</lang>
+---
+> <div n="1"/>3 <lang n="english">a divine female</lang>
+12773c12773
+< <div n="1"/>3 <lang n="english">strung together or а n. pr. (?)</lang>
+---
+> <div n="1"/>3 <lang n="english">strung together or a n. pr. (?)</lang>
+12944c12944
+< <div n="1"/>3 <lang n="english">а multitude, troop, detachment; collection; community; a village</lang>
+---
+> <div n="1"/>3 <lang n="english">a multitude, troop, detachment; collection; community; a village</lang>
+12980c12980
+< <div n="1"/>3 <lang n="english">а stone; pressing-stone; rock; mountain</lang>
+---
+> <div n="1"/>3 <lang n="english">a stone; pressing-stone; rock; mountain</lang>
+13079c13079
+< <div n="1"/>3 <lang n="english">а pot, jar, pitcher</lang>
+---
+> <div n="1"/>3 <lang n="english">a pot, jar, pitcher</lang>
+13102c13102
+< <div n="1"/>2 <lang n="russian">"имеющий ухо c колокольчиком"</lang>
+---
+> <div n="1"/>2 <lang n="russian">"имеющий ухо с колокольчиком"</lang>
+13107c13107
+< <div n="1"/>1 <lang n="czech">bijící; sbitý, pevný, silný, hustý; hluboký (о zvuku); nepřerušený, celý, naplněný, plný; m. masa, mrak</lang>
+---
+> <div n="1"/>1 <lang n="czech">bijící; sbitý, pevný, silný, hustý; hluboký (o zvuku); nepřerušený, celý, naplněný, plný; m. masa, mrak</lang>
+13187c13187
+< <div n="1"/>3 <lang n="english">of а frightful appearance</lang>
+---
+> <div n="1"/>3 <lang n="english">of a frightful appearance</lang>
+13418c13418
+< <div n="1"/>3 <lang n="english">а quadrangular place, ward</lang>
+---
+> <div n="1"/>3 <lang n="english">a quadrangular place, ward</lang>
+13434c13434
+< <div n="1"/>1 <lang n="czech">někdo (tázací zájmeno nebo příslovce, k němuž je připojena částice саnа, stává se neurčitým)</lang>
+---
+> <div n="1"/>1 <lang n="czech">někdo (tázací zájmeno nebo příslovce, k němuž je připojena částice cana, stává se neurčitým)</lang>
+13436c13436
+< <div n="1"/>3 <lang n="english">someone, anyone (an interrogative pronoun or adverb to which the particle саnа is affixed becomes indefinite)</lang>
+---
+> <div n="1"/>3 <lang n="english">someone, anyone (an interrogative pronoun or adverb to which the particle cana is affixed becomes indefinite)</lang>
+13502c13502
+< <div n="1"/>3 <lang n="english">а vessel; an army, a division of an army</lang>
+---
+> <div n="1"/>3 <lang n="english">a vessel; an army, a division of an army</lang>
+13548c13548
+< <div n="1"/>1 <lang n="czech">vycházeti (о slunci), říkati; caus. vypovídati (ze země), vyslovovati</lang>
+---
+> <div n="1"/>1 <lang n="czech">vycházeti (o slunci), říkati; caus. vypovídati (ze země), vyslovovati</lang>
+13580c13580
+< <div n="1"/>3 <lang n="english">а foot, а root of а tree; n. moving, motion, acting, conduct of life</lang>
+---
+> <div n="1"/>3 <lang n="english">a foot, a root of a tree; n. moving, motion, acting, conduct of life</lang>
+13598c13598
+< <div n="1"/>3 <lang n="english">а foot; acting, behaving, custom</lang>
+---
+> <div n="1"/>3 <lang n="english">a foot; acting, behaving, custom</lang>
+13661c13661
+< <div n="1"/>3 <lang n="english">the four periods of а brāhman’s life</lang>
+---
+> <div n="1"/>3 <lang n="english">the four periods of a brāhman’s life</lang>
+13691c13691
+< <div n="1"/>3 <lang n="english">а female bearer of a fan</lang>
+---
+> <div n="1"/>3 <lang n="english">a female bearer of a fan</lang>
+13709c13709
+< <div n="1"/>3 <lang n="english">а wandering actor or singer, a celestial singer; a spy</lang>
+---
+> <div n="1"/>3 <lang n="english">a wandering actor or singer, a celestial singer; a spy</lang>
+13893c13893
+< <div n="1"/>1 <lang n="czech">jméno různých zvířat а rostlin; n. pr.</lang>
+---
+> <div n="1"/>1 <lang n="czech">jméno různých zvířat a rostlin; n. pr.</lang>
+13949c13949
+< <div n="1"/>3 <lang n="english">саге; -° a. caring</lang>
+---
+> <div n="1"/>3 <lang n="english">care; -° a. caring</lang>
+13955c13955
+< <div n="1"/>3 <lang n="english">thinking, thought, саге, anxiety</lang>
+---
+> <div n="1"/>3 <lang n="english">thinking, thought, care, anxiety</lang>
+13961c13961
+< <div n="1"/>3 <lang n="english">considered, considering; n. thought, reflection, саге</lang>
+---
+> <div n="1"/>3 <lang n="english">considered, considering; n. thought, reflection, care</lang>
+13985c13985
+< <div n="1"/>3 <lang n="english">а strip of bark or of cloth, rag, garment</lang>
+---
+> <div n="1"/>3 <lang n="english">a strip of bark or of cloth, rag, garment</lang>
+14216c14216
+< <div n="1"/>3 <lang n="english">а cover, roof of а house; pretext, disguise, fraud</lang>
+---
+> <div n="1"/>3 <lang n="english">a cover, roof of a house; pretext, disguise, fraud</lang>
+14463c14463
+< <div n="1"/>1 <lang n="czech">roditi se, povstávati (о myšlence)</lang>
+---
+> <div n="1"/>1 <lang n="czech">roditi se, povstávati (o myšlence)</lang>
+14636c14636
+< <div n="1"/>3 <lang n="english">а shout of victory, exclamation "be victorious"</lang>
+---
+> <div n="1"/>3 <lang n="english">a shout of victory, exclamation "be victorious"</lang>
+14640c14640
+< <div n="1"/>1 <lang n="czech">vítězství а porážka</lang>
+---
+> <div n="1"/>1 <lang n="czech">vítězství a porážka</lang>
+14676c14676
+< <div n="1"/>1 <lang n="czech">starý, sešlý, suchý (о rostlině)</lang>
+---
+> <div n="1"/>1 <lang n="czech">starý, sešlý, suchý (o rostlině)</lang>
+14734c14734
+< <div n="1"/>2 <lang n="russian">c лицом лотоса</lang>
+---
+> <div n="1"/>2 <lang n="russian">с лицом лотоса</lang>
+14786c14786
+< <div n="1"/>3 <lang n="english">а living being, origin, race, sort, class, the whole of</lang>
+---
+> <div n="1"/>3 <lang n="english">a living being, origin, race, sort, class, the whole of</lang>
+14798c14798
+< <div n="1"/>3 <lang n="english">а birth-ceremony</lang>
+---
+> <div n="1"/>3 <lang n="english">a birth-ceremony</lang>
+14873c14873
+< <div n="1"/>3 <lang n="english">а net, lattice, network, multitude</lang>
+---
+> <div n="1"/>3 <lang n="english">a net, lattice, network, multitude</lang>
+15018c15018
+< <div n="1"/>1 <lang n="czech">mající rychlé kapky, rychle kараjící</lang>
+---
+> <div n="1"/>1 <lang n="czech">mající rychlé kapky, rychle kapající</lang>
+15191c15191
+< <div n="1"/>3 <lang n="english">а kinsman, relative</lang>
+---
+> <div n="1"/>3 <lang n="english">a kinsman, relative</lang>
+15251c15251
+< <div n="1"/>3 <lang n="english">а Soma ceremony</lang>
+---
+> <div n="1"/>3 <lang n="english">a Soma ceremony</lang>
+15408c15408
+< <div n="1"/>1 <lang n="czech">ten čas; acс. adv. v ten čas, okamžitě</lang>
+---
+> <div n="1"/>1 <lang n="czech">ten čas; acc. adv. v ten čas, okamžitě</lang>
+15410c15410
+< <div n="1"/>3 <lang n="english">that time; acс. adv. at that time, immediately</lang>
+---
+> <div n="1"/>3 <lang n="english">that time; acc. adv. at that time, immediately</lang>
+15534c15534
+< <div n="1"/>1 <lang n="czech">na něho (na ni atd.) upjatý (о mysli)</lang>
+---
+> <div n="1"/>1 <lang n="czech">na něho (na ni atd.) upjatý (o mysli)</lang>
+15827c15827
+< <div n="1"/>3 <lang n="english">а young woman</lang>
+---
+> <div n="1"/>3 <lang n="english">a young woman</lang>
+15897c15897
+< <div n="1"/>1 <lang n="czech">tehdy, tedy, protо</lang>
+---
+> <div n="1"/>1 <lang n="czech">tehdy, tedy, proto</lang>
+15911c15911
+< <div n="1"/>3 <lang n="english">а bed, couch</lang>
+---
+> <div n="1"/>3 <lang n="english">a bed, couch</lang>
+15929c15929
+< <div n="1"/>3 <lang n="english">а thief, robber</lang>
+---
+> <div n="1"/>3 <lang n="english">a thief, robber</lang>
+16037c16037
+< tārāravi pl. (tārā  + ravi) 
+---
+> tārāravi pl. (tārā + ravi) 
+16051c16051
+< <div n="1"/>2 <lang n="russian">c ногами подобными пальме; m., n. pr.</lang>
+---
+> <div n="1"/>2 <lang n="russian">с ногами подобными пальме; m., n. pr.</lang>
+16068c16068
+< <div n="1"/>1 <lang n="czech">pokud — potud; zatím со — tu; sotva — tu</lang>
+---
+> <div n="1"/>1 <lang n="czech">pokud — potud; zatím co — tu; sotva — tu</lang>
+16206c16206
+< <div n="1"/>1 <lang n="czech">vysoký, vyvalený (о očich); m. výška, hora</lang>
+---
+> <div n="1"/>1 <lang n="czech">vysoký, vyvalený (o očich); m. výška, hora</lang>
+16250c16250
+< <div n="1"/>3 <lang n="english">а balance, weight; equality, similarity</lang>
+---
+> <div n="1"/>3 <lang n="english">a balance, weight; equality, similarity</lang>
+16424c16424
+< <div n="1"/>3 <lang n="english">edge, tip of а flame, fire, heat, light, brilliance, splendour, energy, might, majesty</lang>
+---
+> <div n="1"/>3 <lang n="english">edge, tip of a flame, fire, heat, light, brilliance, splendour, energy, might, majesty</lang>
+16690c16690
+< <div n="1"/>2 <lang n="russian">c тремя остриями</lang>
+---
+> <div n="1"/>2 <lang n="russian">с тремя остриями</lang>
+16708,16709c16708,16709
+< <div n="1"/>2 <lang n="russian">три времени (т. e. прошедшее, настоящее, будущее)</lang>
+< <div n="1"/>3 <lang n="english">the three tenses (i. е. past, present, future)</lang>
+---
+> <div n="1"/>2 <lang n="russian">три времени (т. е. прошедшее, настоящее, будущее)</lang>
+> <div n="1"/>3 <lang n="english">the three tenses (i. e. past, present, future)</lang>
+16843c16843
+< <div n="1"/>2 <lang n="russian">c правой стороны, c юга, направо, на юг</lang>
+---
+> <div n="1"/>2 <lang n="russian">с правой стороны, с юга, направо, на юг</lang>
+16874c16874
+< <div n="1"/>3 <lang n="english">name of а king whose country was destroyed by a curse</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a king whose country was destroyed by a curse</lang>
+16884c16884
+< <div n="1"/>1 <lang n="czech">dohlížející па trest, soudce</lang>
+---
+> <div n="1"/>1 <lang n="czech">dohlížející na trest, soudce</lang>
+16892c16892
+< <div n="1"/>3 <lang n="english">а man deserving punishment</lang>
+---
+> <div n="1"/>3 <lang n="english">a man deserving punishment</lang>
+17004c17004
+< <div n="1"/>1 <lang n="czech">hospodář; du. muž а žena</lang>
+---
+> <div n="1"/>1 <lang n="czech">hospodář; du. muž a žena</lang>
+17057c17057
+< II √dar driyate  + ā (ādriyate) 
+---
+> II √dar driyate + ā (ādriyate) 
+17114c17114
+< <div n="1"/>3 <lang n="english">а grass-tuft; grass used at sacrificial ceremonies</lang>
+---
+> <div n="1"/>3 <lang n="english">a grass-tuft; grass used at sacrificial ceremonies</lang>
+17240c17240
+< <div n="1"/>3 <lang n="english">а lip (lit. "tooth-cover")</lang>
+---
+> <div n="1"/>3 <lang n="english">a lip (lit. "tooth-cover")</lang>
+17270c17270
+< <div n="1"/>3 <lang n="english">the fringe of а garment, hem; a wick; period of life, circumstances</lang>
+---
+> <div n="1"/>3 <lang n="english">the fringe of a garment, hem; a wick; period of life, circumstances</lang>
+17311,17312c17311,17312
+< <div n="1"/>2 <lang n="russian">борьба c врагами или демонами</lang>
+< <div n="1"/>3 <lang n="english">а fight with enemies or demons</lang>
+---
+> <div n="1"/>2 <lang n="russian">борьба с врагами или демонами</lang>
+> <div n="1"/>3 <lang n="english">a fight with enemies or demons</lang>
+17342c17342
+< <div n="1"/>3 <lang n="english">to cause to give &с.</lang>
+---
+> <div n="1"/>3 <lang n="english">to cause to give &c.</lang>
+17361c17361
+< <div n="1"/>1 <lang n="czech">bráti k sobě, па sebe, s sebou; vnímati, chápati se, začínati</lang>
+---
+> <div n="1"/>1 <lang n="czech">bráti k sobě, na sebe, s sebou; vnímati, chápati se, začínati</lang>
+17374c17374
+< <div n="1"/>2 <lang n="russian">брать (c собой), употреблять</lang>
+---
+> <div n="1"/>2 <lang n="russian">брать (с собой), употреблять</lang>
+17454c17454
+< <div n="1"/>1 <lang n="czech">со je třeba dávat</lang>
+---
+> <div n="1"/>1 <lang n="czech">co je třeba dávat</lang>
+17466c17466
+< <div n="1"/>1 <lang n="czech">šťáva па spáncích slona v době říje</lang>
+---
+> <div n="1"/>1 <lang n="czech">šťáva na spáncích slona v době říje</lang>
+17502c17502
+< <div n="1"/>1 <lang n="czech">končící па slabiku dā</lang>
+---
+> <div n="1"/>1 <lang n="czech">končící na slabiku dā</lang>
+17546c17546
+< <div n="1"/>3 <lang n="english">а wife, woman</lang>
+---
+> <div n="1"/>3 <lang n="english">a wife, woman</lang>
+17556c17556
+< <div n="1"/>1 <lang n="czech">závislý па ženě</lang>
+---
+> <div n="1"/>1 <lang n="czech">závislý na ženě</lang>
+17558c17558
+< <div n="1"/>3 <lang n="english">dependent on а wife</lang>
+---
+> <div n="1"/>3 <lang n="english">dependent on a wife</lang>
+17576c17576
+< <div n="1"/>3 <lang n="english">а piece of wood, log, stick, wood</lang>
+---
+> <div n="1"/>3 <lang n="english">a piece of wood, log, stick, wood</lang>
+17618c17618
+< √dās dāsati;  +abhi (abhidās) 
+---
+> √dās dāsati; +abhi (abhidās) 
+17633c17633
+< <div n="1"/>3 <lang n="english">а female slave or servant</lang>
+---
+> <div n="1"/>3 <lang n="english">a female slave or servant</lang>
+17724c17724
+< <div n="1"/>1 <lang n="czech">nebe а země; den а noc</lang>
+---
+> <div n="1"/>1 <lang n="czech">nebe a země; den a noc</lang>
+18002c18002
+< <div n="1"/>3 <lang n="english">name of а rṣi</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a rṣi</lang>
+18093c18093
+< <div n="1"/>1 <lang n="czech">jehož lze těžko паpadnout, nepřístupný</lang>
+---
+> <div n="1"/>1 <lang n="czech">jehož lze těžko napadnout, nepřístupný</lang>
+18105c18105
+< <div n="1"/>1 <lang n="czech">nepřístupný (о místu)</lang>
+---
+> <div n="1"/>1 <lang n="czech">nepřístupný (o místu)</lang>
+18130c18130
+< <div n="1"/>2 <lang n="russian">игрок; n. игра (в Kocmu)</lang>
+---
+> <div n="1"/>2 <lang n="russian">игрок; n. игра (в Кости)</lang>
+18153c18153
+< <div n="1"/>1 <lang n="czech">těžko přemožitelný, пеpřemožitelný</lang>
+---
+> <div n="1"/>1 <lang n="czech">těžko přemožitelný, nepřemožitelný</lang>
+18172c18172
+< <div n="1"/>2 <lang n="russian">глупый, c плохими мыслями; f. подлость, глупость</lang>
+---
+> <div n="1"/>2 <lang n="russian">глупый, с плохими мыслями; f. подлость, глупость</lang>
+18197c18197
+< <div n="1"/>3 <lang n="english">‘'invincible''</lang>
+---
+> <div n="1"/>3 <lang n="english">"invincible"</lang>
+18202c18202
+< <div n="1"/>2 <lang n="russian">c трудом достижимый, недостижимый, редкий</lang>
+---
+> <div n="1"/>2 <lang n="russian">с трудом достижимый, недостижимый, редкий</lang>
+18265c18265
+< <div n="1"/>2 <lang n="russian">c плохими мыслями; m., n. pr.</lang>
+---
+> <div n="1"/>2 <lang n="russian">с плохими мыслями; m., n. pr.</lang>
+18283c18283
+< <div n="1"/>2 <lang n="russian">c трудом достижимый, недостижимый</lang>
+---
+> <div n="1"/>2 <lang n="russian">с трудом достижимый, недостижимый</lang>
+18362c18362
+< <div n="1"/>3 <lang n="english">а kind of cloth, garment</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of cloth, garment</lang>
+18386c18386
+< <div n="1"/>3 <lang n="english">а kind of cloth, garment</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of cloth, garment</lang>
+18437c18437
+< <div n="1"/>3 <lang n="english">а rock, stone, mill stone</lang>
+---
+> <div n="1"/>3 <lang n="english">a rock, stone, mill stone</lang>
+18500c18500
+< <div n="1"/>3 <lang n="english">name of а queen, name of the mother of Kṛṣṇa</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a queen, name of the mother of Kṛṣṇa</lang>
+18512c18512
+< <div n="1"/>3 <lang n="english">а divine child</lang>
+---
+> <div n="1"/>3 <lang n="english">a divine child</lang>
+18557c18557
+< <div n="1"/>3 <lang n="english">а celestial saint</lang>
+---
+> <div n="1"/>3 <lang n="english">a celestial saint</lang>
+18644c18644
+< <div n="1"/>3 <lang n="english">а son of Diti, а demon</lang>
+---
+> <div n="1"/>3 <lang n="english">a son of Diti, a demon</lang>
+18656c18656
+< <div n="1"/>3 <lang n="english">а deity, divinity</lang>
+---
+> <div n="1"/>3 <lang n="english">a deity, divinity</lang>
+18660c18660
+< <div n="1"/>1 <lang n="czech">jsoucí mezi bohy а asury</lang>
+---
+> <div n="1"/>1 <lang n="czech">jsoucí mezi bohy a asury</lang>
+18710c18710
+< <div n="1"/>3 <lang n="english">the longing of а pregnant women, desire, pregnancy</lang>
+---
+> <div n="1"/>3 <lang n="english">the longing of a pregnant women, desire, pregnancy</lang>
+18714c18714
+< <div n="1"/>1 <lang n="czech">nebe а země</lang>
+---
+> <div n="1"/>1 <lang n="czech">nebe a země</lang>
+18861c18861
+< <div n="1"/>1 <lang n="czech">koryto, džber, nádrž па vodu</lang>
+---
+> <div n="1"/>1 <lang n="czech">koryto, džber, nádrž na vodu</lang>
+18863c18863
+< <div n="1"/>3 <lang n="english">а wooden trough, bucket, water- reservoir</lang>
+---
+> <div n="1"/>3 <lang n="english">a wooden trough, bucket, water- reservoir</lang>
+18899c18899
+< <div n="1"/>3 <lang n="english">twofold, double; n. а pair, couple</lang>
+---
+> <div n="1"/>3 <lang n="english">twofold, double; n. a pair, couple</lang>
+18929c18929
+< <div n="1"/>3 <lang n="english">а door, entrance, a means</lang>
+---
+> <div n="1"/>3 <lang n="english">a door, entrance, a means</lang>
+18935c18935
+< <div n="1"/>3 <lang n="english">а door, gateway, entrance, opening, aperture, way, means</lang>
+---
+> <div n="1"/>3 <lang n="english">a door, gateway, entrance, opening, aperture, way, means</lang>
+18946c18946
+< <div n="1"/>2 <lang n="russian">из двух вepeвок, двойной</lang>
+---
+> <div n="1"/>2 <lang n="russian">из двух веревок, двойной</lang>
+18961c18961
+< <div n="1"/>2 <lang n="russian">c двумя языками; m. змея, негодяй</lang>
+---
+> <div n="1"/>2 <lang n="russian">с двумя языками; m. змея, негодяй</lang>
+18980c18980
+< <div n="1"/>3 <lang n="english">а female friend; the accusative (gr.; lit. "the 2nd case")</lang>
+---
+> <div n="1"/>3 <lang n="english">a female friend; the accusative (gr.; lit. "the 2nd case")</lang>
+18998c18998
+< <div n="1"/>3 <lang n="english">lit. "drinkingtwice"; аn elephant</lang>
+---
+> <div n="1"/>3 <lang n="english">lit. "drinkingtwice"; an elephant</lang>
+19009c19009
+< <div n="1"/>2 <lang n="russian">c двумя потомками</lang>
+---
+> <div n="1"/>2 <lang n="russian">с двумя потомками</lang>
+19087c19087
+< <div n="1"/>2 <lang n="russian">c двумя ртами</lang>
+---
+> <div n="1"/>2 <lang n="russian">с двумя ртами</lang>
+19100c19100
+< <div n="1"/>3 <lang n="english">the prize of а contest, booty, profit, money, wealth, reward; -°a. rich</lang>
+---
+> <div n="1"/>3 <lang n="english">the prize of a contest, booty, profit, money, wealth, reward; -°a. rich</lang>
+19121c19121
+< <div n="1"/>3 <lang n="english">а rich man, creditor</lang>
+---
+> <div n="1"/>3 <lang n="english">a rich man, creditor</lang>
+19233c19233
+< <div n="1"/>1 <lang n="czech">dosl. "со se udržuje"; obyčej, mrav, povinnost, řád, právo, zákon, spravedlnost, bůh spravedlnosti; zásluha, ctnost, povaha, charakteristický znak, způsob</lang>
+---
+> <div n="1"/>1 <lang n="czech">dosl. "co se udržuje"; obyčej, mrav, povinnost, řád, právo, zákon, spravedlnost, bůh spravedlnosti; zásluha, ctnost, povaha, charakteristický znak, způsob</lang>
+19247c19247
+< <div n="1"/>3 <lang n="english">а religious act</lang>
+---
+> <div n="1"/>3 <lang n="english">a religious act</lang>
+19251c19251
+< <div n="1"/>1 <lang n="czech">znalý, со je správné</lang>
+---
+> <div n="1"/>1 <lang n="czech">znalý, co je správné</lang>
+19283c19283
+< <div n="1"/>3 <lang n="english">а manual of laws, law-book</lang>
+---
+> <div n="1"/>3 <lang n="english">a manual of laws, law-book</lang>
+19299c19299
+< <div n="1"/>1 <lang n="czech">zásluhy а jmění (du.); smysl práva</lang>
+---
+> <div n="1"/>1 <lang n="czech">zásluhy a jmění (du.); smysl práva</lang>
+19334c19334
+< <div n="1"/>3 <lang n="english">а violated woman</lang>
+---
+> <div n="1"/>3 <lang n="english">a violated woman</lang>
+19374c19374
+< <div n="1"/>1 <lang n="czech">mířiti па koho, postihnouti, připraviti оč</lang>
+---
+> <div n="1"/>1 <lang n="czech">mířiti na koho, postihnouti, připraviti oč</lang>
+19466c19466
+< <div n="1"/>3 <lang n="english">а layer (of ore), ore, mineral, metal, element, constituent part</lang>
+---
+> <div n="1"/>3 <lang n="english">a layer (of ore), ore, mineral, metal, element, constituent part</lang>
+19493c19493
+< <div n="1"/>3 <lang n="english">а dwelling place, residence, place; decree, law, strength, majesty, light</lang>
+---
+> <div n="1"/>3 <lang n="english">a dwelling place, residence, place; decree, law, strength, majesty, light</lang>
+19535c19535
+< <div n="1"/>3 <lang n="english">name of а town (the residence of Bhoja)</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a town (the residence of Bhoja)</lang>
+19761c19761
+< <div n="1"/>1 <lang n="czech">získaný па bojišti</lang>
+---
+> <div n="1"/>1 <lang n="czech">získaný na bojišti</lang>
+19868c19868
+< <div n="1"/>3 <lang n="english">а star, asterism, heavenly body, star of the birth</lang>
+---
+> <div n="1"/>3 <lang n="english">a star, asterism, heavenly body, star of the birth</lang>
+19891c19891
+< <div n="1"/>2 <lang n="russian">растущий на rope; m. дерево</lang>
+---
+> <div n="1"/>2 <lang n="russian">растущий на горе; m. дерево</lang>
+20069c20069
+< <div n="1"/>3 <lang n="english">а cloud, mist, the atmosphere; name of a month</lang>
+---
+> <div n="1"/>3 <lang n="english">a cloud, mist, the atmosphere; name of a month</lang>
+20174c20174
+< <div n="1"/>3 <lang n="english">а man, male, husband, hero</lang>
+---
+> <div n="1"/>3 <lang n="english">a man, male, husband, hero</lang>
+20275c20275
+< <div n="1"/>2 <lang n="russian">гибнуть после чего-нибудь или вместе c чем-нибудь</lang>
+---
+> <div n="1"/>2 <lang n="russian">гибнуть после чего-нибудь или вместе с чем-нибудь</lang>
+20325c20325
+< <div n="1"/>1 <lang n="czech">vázati, poutati; med. bráti па sebe</lang>
+---
+> <div n="1"/>1 <lang n="czech">vázati, poutati; med. bráti na sebe</lang>
+20331c20331
+< <div n="1"/>1 <lang n="czech">ne totiž, jistě пе</lang>
+---
+> <div n="1"/>1 <lang n="czech">ne totiž, jistě ne</lang>
+20366c20366
+< <div n="1"/>3 <lang n="english">belonging to а city; m. а citizen</lang>
+---
+> <div n="1"/>3 <lang n="english">belonging to a city; m. a citizen</lang>
+20392c20392
+< <div n="1"/>2 <lang n="russian">обратиться c просьбой, просить</lang>
+---
+> <div n="1"/>2 <lang n="russian">обратиться с просьбой, просить</lang>
+20421c20421
+< <div n="1"/>1 <lang n="czech">па různých místech, různě, zvláště; a. (°-) různý</lang>
+---
+> <div n="1"/>1 <lang n="czech">na různých místech, různě, zvláště; a. (°-) různý</lang>
+20483c20483
+< <div n="1"/>3 <lang n="english">а пате, appellation, the ceremony of naming a child</lang>
+---
+> <div n="1"/>3 <lang n="english">a name, appellation, the ceremony of naming a child</lang>
+20493c20493
+< <div n="1"/>1 <lang n="czech">vůdce, pán, hrdina (у dramatě)</lang>
+---
+> <div n="1"/>1 <lang n="czech">vůdce, pán, hrdina (y dramatě)</lang>
+20495c20495
+< <div n="1"/>3 <lang n="english">а leader, lord, the hero (in a drama )</lang>
+---
+> <div n="1"/>3 <lang n="english">a leader, lord, the hero (in a drama )</lang>
+20507c20507
+< <div n="1"/>3 <lang n="english">а ṛṣi, messenger of gods</lang>
+---
+> <div n="1"/>3 <lang n="english">a ṛṣi, messenger of gods</lang>
+20619c20619
+< <div n="1"/>1 <lang n="czech">vyšlý, zazněvší (о zvuku)</lang>
+---
+> <div n="1"/>1 <lang n="czech">vyšlý, zazněvší (o zvuku)</lang>
+20636c20636
+< <div n="1"/>3 <lang n="english">having по wealth, poor</lang>
+---
+> <div n="1"/>3 <lang n="english">having no wealth, poor</lang>
+20665c20665
+< <div n="1"/>2 <lang n="russian">no желанию, обильно, совсем</lang>
+---
+> <div n="1"/>2 <lang n="russian">по желанию, обильно, совсем</lang>
+20789c20789
+< <div n="1"/>3 <lang n="english">а treasure, treasury, store-house, reservoir, the ocean</lang>
+---
+> <div n="1"/>3 <lang n="english">a treasure, treasury, store-house, reservoir, the ocean</lang>
+20867c20867
+< <div n="1"/>3 <lang n="english">lit. "going downwards"; а river</lang>
+---
+> <div n="1"/>3 <lang n="english">lit. "going downwards"; a river</lang>
+21060c21060
+< <div n="1"/>1 <lang n="czech">uvolněný, vystřelený (о šípu)</lang>
+---
+> <div n="1"/>1 <lang n="czech">uvolněný, vystřelený (o šípu)</lang>
+21084c21084
+< <div n="1"/>1 <lang n="czech">vyvanutý, vyhaslý (о lampě), uklidněný, vykoupеný; n. abstr.</lang>
+---
+> <div n="1"/>1 <lang n="czech">vyvanutý, vyhaslý (o lampě), uklidněný, vykoupený; n. abstr.</lang>
+21158c21158
+< <div n="1"/>3 <lang n="english">а low ground, valley</lang>
+---
+> <div n="1"/>3 <lang n="english">a low ground, valley</lang>
+21174c21174
+< <div n="1"/>1 <lang n="czech">umístěný, usazeňý, upjatý nаč, opatřený ěím</lang>
+---
+> <div n="1"/>1 <lang n="czech">umístěný, usazeňý, upjatý nač, opatřený ěím</lang>
+21200c21200
+< <div n="1"/>3 <lang n="english">entering, founding а household, dwelling-place, house, rest, bringing to rest</lang>
+---
+> <div n="1"/>3 <lang n="english">entering, founding a household, dwelling-place, house, rest, bringing to rest</lang>
+21210c21210
+< <div n="1"/>1 <lang n="czech">nос</lang>
+---
+> <div n="1"/>1 <lang n="czech">noc</lang>
+21477c21477
+< <div n="1"/>1 <lang n="czech">nízký, snížený, hluboký (о hlase), nízký sociálně а mravně</lang>
+---
+> <div n="1"/>1 <lang n="czech">nízký, snížený, hluboký (o hlase), nízký sociálně a mravně</lang>
+21497c21497
+< <div n="1"/>3 <lang n="english">а resting-place, bed, bird's nest</lang>
+---
+> <div n="1"/>3 <lang n="english">a resting-place, bed, bird's nest</lang>
+21501c21501
+< <div n="1"/>1 <lang n="czech">veden, přinesen, unesen, stráven (о čase), správně se chovající</lang>
+---
+> <div n="1"/>1 <lang n="czech">veden, přinesen, unesen, stráven (o čase), správně se chovající</lang>
+21539c21539
+< <div n="1"/>3 <lang n="english">whether; much mоге; much less</lang>
+---
+> <div n="1"/>3 <lang n="english">whether; much more; much less</lang>
+21631c21631
+< <div n="1"/>2 <lang n="russian">право не; чтобы нe</lang>
+---
+> <div n="1"/>2 <lang n="russian">право не; чтобы не</lang>
+21658c21658
+< <div n="1"/>2 <lang n="russian">идущий no следам колеса</lang>
+---
+> <div n="1"/>2 <lang n="russian">идущий по следам колеса</lang>
+21740c21740
+< <div n="1"/>3 <lang n="english">less, in а less degree</lang>
+---
+> <div n="1"/>3 <lang n="english">less, in a less degree</lang>
+21779c21779
+< <div n="1"/>3 <lang n="english">а wing, the flank or side of the body, half, half of a lunar month, party, groop, view, opinion</lang>
+---
+> <div n="1"/>3 <lang n="english">a wing, the flank or side of the body, half, half of a lunar month, party, groop, view, opinion</lang>
+21815c21815
+< <div n="1"/>3 <lang n="english">а collection of five, line, series, group, herd</lang>
+---
+> <div n="1"/>3 <lang n="english">a collection of five, line, series, group, herd</lang>
+21849c21849
+< <div n="1"/>1 <lang n="czech">pětice (produktů) krávy: mléko, kyselé mléko, máslo, moč а trus</lang>
+---
+> <div n="1"/>1 <lang n="czech">pětice (produktů) krávy: mléko, kyselé mléko, máslo, moč a trus</lang>
+21863c21863
+< <div n="1"/>3 <lang n="english">(ап ascetic) having five fires around</lang>
+---
+> <div n="1"/>3 <lang n="english">(an ascetic) having five fires around</lang>
+21880c21880
+< <div n="1"/>2 <lang n="russian">пятнадцaтый</lang>
+---
+> <div n="1"/>2 <lang n="russian">пятнадцатый</lang>
+21910c21910
+< <div n="1"/>2 <lang n="russian">c пятью головами</lang>
+---
+> <div n="1"/>2 <lang n="russian">с пятью головами</lang>
+21960c21960
+< <div n="1"/>1 <lang n="czech">ostrý, pronikavý (о zvuku), pronikající, bystrý</lang>
+---
+> <div n="1"/>1 <lang n="czech">ostrý, pronikavý (o zvuku), pronikající, bystrý</lang>
+21968c21968
+< <div n="1"/>3 <lang n="english">а board, slab, tablet for writing upon, strip of cloth</lang>
+---
+> <div n="1"/>3 <lang n="english">a board, slab, tablet for writing upon, strip of cloth</lang>
+21992c21992
+< <div n="1"/>3 <lang n="english">а fetter, place for fettering</lang>
+---
+> <div n="1"/>3 <lang n="english">a fetter, place for fettering</lang>
+21996c21996
+< <div n="1"/>1 <lang n="czech">prováděti výměnný obchod, obchodovati, kupovati, sázeti se, hráti о něco</lang>
+---
+> <div n="1"/>1 <lang n="czech">prováděti výměnný obchod, obchodovati, kupovati, sázeti se, hráti o něco</lang>
+22016c22016
+< <div n="1"/>3 <lang n="english">а small drum, cymbal</lang>
+---
+> <div n="1"/>3 <lang n="english">a small drum, cymbal</lang>
+22121c22121
+< <div n="1"/>3 <lang n="english">а lord, ruler, husband</lang>
+---
+> <div n="1"/>3 <lang n="english">a lord, ruler, husband</lang>
+22138c22138
+< <div n="1"/>2 <lang n="russian">c ног</lang>
+---
+> <div n="1"/>2 <lang n="russian">с ног</lang>
+22145c22145
+< <div n="1"/>3 <lang n="english">а pedestrian, a foot-soldier</lang>
+---
+> <div n="1"/>3 <lang n="english">a pedestrian, a foot-soldier</lang>
+22349c22349
+< <div n="1"/>3 <lang n="english">to fill, fulfil (а wish), give abundantly, sate, nourish, fill (a conch) with air i. e. to blow into</lang>
+---
+> <div n="1"/>3 <lang n="english">to fill, fulfil (a wish), give abundantly, sate, nourish, fill (a conch) with air i. e. to blow into</lang>
+22410c22410
+< <div n="1"/>1 <lang n="czech">jsoucí na druhě straně, daleký, odlehlý, cizí, nepřátelský; о čase: minulý, dřívější, budoucí; о pořadí: jiný, druhý, odlišný, následující, další, poslední, nejzazší, (nej) vyšší, (nej) lepší, (nej) horší; -° a. zcela zabraný do, zcela se obírající; m. cizinec, nepřítel, nejvyšší bůh; n. dálka, vrchol, vykoupení</lang>
+---
+> <div n="1"/>1 <lang n="czech">jsoucí na druhě straně, daleký, odlehlý, cizí, nepřátelský; o čase: minulý, dřívější, budoucí; o pořadí: jiný, druhý, odlišný, následující, další, poslední, nejzazší, (nej) vyšší, (nej) lepší, (nej) horší; -° a. zcela zabraný do, zcela se obírající; m. cizinec, nepřítel, nejvyšší bůh; n. dálka, vrchol, vykoupení</lang>
+22478c22478
+< paratas  + abl.
+---
+> paratas + abl.
+22498c22498
+< <div n="1"/>2 <lang n="russian">весьма; npu согласии: хорошо, Да</lang>
+---
+> <div n="1"/>2 <lang n="russian">весьма; при согласии: хорошо, да</lang>
+22547c22547
+< <div n="1"/>3 <lang n="english">an ахе</lang>
+---
+> <div n="1"/>3 <lang n="english">an axe</lang>
+22715c22715
+< <div n="1"/>3 <lang n="english">а moat, ditch round a town</lang>
+---
+> <div n="1"/>3 <lang n="english">a moat, ditch round a town</lang>
+22739c22739
+< <div n="1"/>3 <lang n="english">а bolt, obstacle, iron club</lang>
+---
+> <div n="1"/>3 <lang n="english">a bolt, obstacle, iron club</lang>
+22826c22826
+< <div n="1"/>3 <lang n="english">protecting, саге, nourishing</lang>
+---
+> <div n="1"/>3 <lang n="english">protecting, care, nourishing</lang>
+23064c23064
+< <div n="1"/>1 <lang n="czech">peruť, рего, реп, list (stromu)</lang>
+---
+> <div n="1"/>1 <lang n="czech">peruť, pero, pen, list (stromu)</lang>
+23072c23072
+< <div n="1"/>3 <lang n="english">а bed, sofa, a kind of posture</lang>
+---
+> <div n="1"/>3 <lang n="english">a bed, sofa, a kind of posture</lang>
+23096c23096
+< <div n="1"/>3 <lang n="english">а mountain-range, mountain, hill, rock, heigth</lang>
+---
+> <div n="1"/>3 <lang n="english">a mountain-range, mountain, hill, rock, heigth</lang>
+23120c23120
+< <div n="1"/>3 <lang n="english">аn onion</lang>
+---
+> <div n="1"/>3 <lang n="english">an onion</lang>
+23138c23138
+< <div n="1"/>3 <lang n="english">а stalk, straw</lang>
+---
+> <div n="1"/>3 <lang n="english">a stalk, straw</lang>
+23144c23144
+< <div n="1"/>3 <lang n="english">а leaf</lang>
+---
+> <div n="1"/>3 <lang n="english">a leaf</lang>
+23196c23196
+< <div n="1"/>1 <lang n="czech">dívati se, všímati si, pozorovati, míti о hled</lang>
+---
+> <div n="1"/>1 <lang n="czech">dívati se, všímati si, pozorovati, míti o hled</lang>
+23202c23202
+< <div n="1"/>1 <lang n="czech">dobytče, dobytek, domácí nebo obětní zvíře, "zvíře" (о člověku)</lang>
+---
+> <div n="1"/>1 <lang n="czech">dobytče, dobytek, domácí nebo obětní zvíře, "zvíře" (o člověku)</lang>
+23300c23300
+< <div n="1"/>3 <lang n="english">name of а town</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a town</lang>
+23322c23322
+< <div n="1"/>1 <lang n="czech">dán па studie, vzdělaný</lang>
+---
+> <div n="1"/>1 <lang n="czech">dán na studie, vzdělaný</lang>
+23414c23414
+< <div n="1"/>3 <lang n="english">а (drinking-) vessel, cup, а person (fit to receive instruction or gift)</lang>
+---
+> <div n="1"/>3 <lang n="english">a (drinking-) vessel, cup, a person (fit to receive instruction or gift)</lang>
+23418c23418
+< <div n="1"/>1 <lang n="czech">zásoba па cestu, cestovně</lang>
+---
+> <div n="1"/>1 <lang n="czech">zásoba na cestu, cestovně</lang>
+23420c23420
+< <div n="1"/>3 <lang n="english">provisions for а journey, viaticum</lang>
+---
+> <div n="1"/>3 <lang n="english">provisions for a journey, viaticum</lang>
+23432c23432
+< <div n="1"/>3 <lang n="english">lit. "drinking with the root''; a plant, tree</lang>
+---
+> <div n="1"/>3 <lang n="english">lit. "drinking with the root"; a plant, tree</lang>
+23448c23448
+< <div n="1"/>1 <lang n="czech">sloužící к pití; n. voda, nápoj</lang>
+---
+> <div n="1"/>1 <lang n="czech">sloužící k pití; n. voda, nápoj</lang>
+23474c23474
+< <div n="1"/>3 <lang n="english">а disease as the penalty of sin</lang>
+---
+> <div n="1"/>3 <lang n="english">a disease as the penalty of sin</lang>
+23501c23501
+< <div n="1"/>3 <lang n="english">а guard, protector</lang>
+---
+> <div n="1"/>3 <lang n="english">a guard, protector</lang>
+23511c23511
+< <div n="1"/>1 <lang n="czech">došlý па druhý břeh, zběhlý (ve vedách), plnící (slib)</lang>
+---
+> <div n="1"/>1 <lang n="czech">došlý na druhý břeh, zběhlý (ve vedách), plnící (slib)</lang>
+23518c23518
+< <div n="1"/>2 <lang n="russian">имеющий сношения c женой другого</lang>
+---
+> <div n="1"/>2 <lang n="russian">имеющий сношения с женой другого</lang>
+23541c23541
+< <div n="1"/>1 <lang n="czech">domácí nářadí а nábytek</lang>
+---
+> <div n="1"/>1 <lang n="czech">domácí nářadí a nábytek</lang>
+23660c23660
+< <div n="1"/>3 <lang n="english">purifying; n. а means of purifying</lang>
+---
+> <div n="1"/>3 <lang n="english">purifying; n. a means of purifying</lang>
+23666c23666
+< <div n="1"/>3 <lang n="english">а noose, snare, net for catching birds</lang>
+---
+> <div n="1"/>3 <lang n="english">a noose, snare, net for catching birds</lang>
+23684c23684
+< <div n="1"/>3 <lang n="english">а stone</lang>
+---
+> <div n="1"/>3 <lang n="english">a stone</lang>
+23704c23704
+< <div n="1"/>2 <lang n="russian">c коричневожёлтыми глазами; m. обезьяна</lang>
+---
+> <div n="1"/>2 <lang n="russian">с коричневожёлтыми глазами; m. обезьяна</lang>
+23717c23717
+< <div n="1"/>3 <lang n="english">а lump, globe, morsel, э lump of rice offered to the ancestors, food in general, livelihood</lang>
+---
+> <div n="1"/>3 <lang n="english">a lump, globe, morsel, a lump of rice offered to the ancestors, food in general, livelihood</lang>
+23892c23892
+< <div n="1"/>1 <lang n="czech">оchrana</lang>
+---
+> <div n="1"/>1 <lang n="czech">ochrana</lang>
+23972c23972
+< <div n="1"/>3 <lang n="english">а lotus-flower, а white lotus</lang>
+---
+> <div n="1"/>3 <lang n="english">a lotus-flower, a white lotus</lang>
+23990c23990
+< <div n="1"/>3 <lang n="english">а good day</lang>
+---
+> <div n="1"/>3 <lang n="english">a good day</lang>
+23999c23999
+< <div n="1"/>3 <lang n="english">а boy, child, the young one</lang>
+---
+> <div n="1"/>3 <lang n="english">a boy, child, the young one</lang>
+24039c24039
+< <div n="1"/>1 <lang n="czech">opět а opět, stále а stále</lang>
+---
+> <div n="1"/>1 <lang n="czech">opět a opět, stále a stále</lang>
+24046c24046
+< <div n="1"/>2 <lang n="russian">тo... тo...</lang>
+---
+> <div n="1"/>2 <lang n="russian">то... то...</lang>
+24108,24109c24108,24109
+< <div n="1"/>1 <lang n="czech">vpředu, dopředu, zpředu, па východ (ě), odvýchodu; nejdříve</lang>
+< <div n="1"/>2 <lang n="russian">впереди, вперед, спереди, на востоке, c востока; раньше всего</lang>
+---
+> <div n="1"/>1 <lang n="czech">vpředu, dopředu, zpředu, na východ (ě), odvýchodu; nejdříve</lang>
+> <div n="1"/>2 <lang n="russian">впереди, вперед, спереди, на востоке, с востока; раньше всего</lang>
+24253c24253
+< <div n="1"/>2 <lang n="russian">c глазами как лотос</lang>
+---
+> <div n="1"/>2 <lang n="russian">с глазами как лотос</lang>
+24293c24293
+< <div n="1"/>3 <lang n="english">а flower used instead of arrow; flower-arrowed (epith. of the god of love)</lang>
+---
+> <div n="1"/>3 <lang n="english">a flower used instead of arrow; flower-arrowed (epith. of the god of love)</lang>
+24381c24381
+< <div n="1"/>1 <lang n="czech">naplněný, naplněný vzduchem (о ulítě), napjatý (о luku), plný</lang>
+---
+> <div n="1"/>1 <lang n="czech">naplněný, naplněný vzduchem (o ulítě), napjatý (o luku), plný</lang>
+24400c24400
+< <div n="1"/>2 <lang n="russian">находящийся впереди, первый, (первый возраст = молодость), передний, восточный, предшествующий, давний, прошедший, начальный; -° сопровождаемый; m. старший брат; m. рf. предки</lang>
+---
+> <div n="1"/>2 <lang n="russian">находящийся впереди, первый, (первый возраст = молодость), передний, восточный, предшествующий, давний, прошедший, начальный; -° сопровождаемый; m. старший брат; m. pl. предки</lang>
+24417c24417
+< <div n="1"/>1 <lang n="czech">před, па východ od</lang>
+---
+> <div n="1"/>1 <lang n="czech">před, na východ od</lang>
+24641c24641
+< <div n="1"/>3 <lang n="english">name of Kubera, Rāvaṇa &с.</lang>
+---
+> <div n="1"/>3 <lang n="english">name of Kubera, Rāvaṇa &c.</lang>
+24717c24717
+< <div n="1"/>1 <lang n="czech">udělaný, provedený, připravený, о němž se jedná</lang>
+---
+> <div n="1"/>1 <lang n="czech">udělaný, provedený, připravený, o němž se jedná</lang>
+24758c24758
+< <div n="1"/>3 <lang n="english">а blow, punch, insertion, interpolation, deposited sum</lang>
+---
+> <div n="1"/>3 <lang n="english">a blow, punch, insertion, interpolation, deposited sum</lang>
+24902c24902
+< <div n="1"/>3 <lang n="english">а loud sound, cry, rumbling</lang>
+---
+> <div n="1"/>3 <lang n="english">a loud sound, cry, rumbling</lang>
+24926c24926
+< <div n="1"/>3 <lang n="english">crossing (а river), going over</lang>
+---
+> <div n="1"/>3 <lang n="english">crossing (a river), going over</lang>
+24966c24966
+< <div n="1"/>1 <lang n="czech">k, proti, ve srovnání s, vzhledem k, vůči, podle (= v souhlase s), kvůli, pro, blízko, u, před, při, na, v; о době: za</lang>
+---
+> <div n="1"/>1 <lang n="czech">k, proti, ve srovnání s, vzhledem k, vůči, podle (= v souhlase s), kvůli, pro, blízko, u, před, při, na, v; o době: za</lang>
+25124c25124
+< <div n="1"/>3 <lang n="english">а counter-weight, match, equal</lang>
+---
+> <div n="1"/>3 <lang n="english">a counter-weight, match, equal</lang>
+25184c25184
+< <div n="1"/>3 <lang n="english">а porter, door-keeper</lang>
+---
+> <div n="1"/>3 <lang n="english">a porter, door-keeper</lang>
+25290c25290
+< <div n="1"/>1 <lang n="czech">nаорак, spíše, dokonce</lang>
+---
+> <div n="1"/>1 <lang n="czech">naopak, spíše, dokonce</lang>
+25334c25334
+< <div n="1"/>3 <lang n="english">(а cow) that has calved for the first time</lang>
+---
+> <div n="1"/>3 <lang n="english">(a cow) that has calved for the first time</lang>
+25386c25386
+< <div n="1"/>1 <lang n="czech">nараden, urážen</lang>
+---
+> <div n="1"/>1 <lang n="czech">napaden, urážen</lang>
+25399c25399
+< <div n="1"/>2 <lang n="russian">no порядку</lang>
+---
+> <div n="1"/>2 <lang n="russian">по порядку</lang>
+25520c25520
+< <div n="1"/>3 <lang n="english">mighty; m. а lord, prince</lang>
+---
+> <div n="1"/>3 <lang n="english">mighty; m. a lord, prince</lang>
+25565c25565
+< <div n="1"/>3 <lang n="english">а young and wanton woman, any woman</lang>
+---
+> <div n="1"/>3 <lang n="english">a young and wanton woman, any woman</lang>
+25618c25618
+< <div n="1"/>2 <lang n="russian">c лицом повернутым вперед, главный, передний; -° имеющий во главе, провожаемый</lang>
+---
+> <div n="1"/>2 <lang n="russian">с лицом повернутым вперед, главный, передний; -° имеющий во главе, провожаемый</lang>
+25643c25643
+< <div n="1"/>3 <lang n="english">effort, exertion, саге, activity</lang>
+---
+> <div n="1"/>3 <lang n="english">effort, exertion, care, activity</lang>
+25677c25677
+< <div n="1"/>1 <lang n="czech">důvod, přícina, ей, účel, potřeba</lang>
+---
+> <div n="1"/>1 <lang n="czech">důvod, přícina, cíl, účel, potřeba</lang>
+25776c25776
+< <div n="1"/>1 <lang n="czech">vyrostlý, dospělý, velký, silný, starý, pokročilý (о nemoci)</lang>
+---
+> <div n="1"/>1 <lang n="czech">vyrostlý, dospělý, velký, silný, starý, pokročilý (o nemoci)</lang>
+25835c25835
+< <div n="1"/>3 <lang n="english">а question, inquiry after judicial inquiry, a lesson</lang>
+---
+> <div n="1"/>3 <lang n="english">a question, inquiry after judicial inquiry, a lesson</lang>
+26065c26065
+< <div n="1"/>2 <lang n="russian">c лицом повернутым вперед или на восток</lang>
+---
+> <div n="1"/>2 <lang n="russian">с лицом повернутым вперед или на восток</lang>
+26088c26088
+< <div n="1"/>1 <lang n="czech">obrácený dopředu nebo к východu, východní, dřívější</lang>
+---
+> <div n="1"/>1 <lang n="czech">obrácený dopředu nebo k východu, východní, dřívější</lang>
+26101c26101
+< <div n="1"/>2 <lang n="russian">воздух (вдыхаемый), дыхание, жизненный принцип, орган чувств; лицо; рf. жизнь</lang>
+---
+> <div n="1"/>2 <lang n="russian">воздух (вдыхаемый), дыхание, жизненный принцип, орган чувств; лицо; pl. жизнь</lang>
+26132c26132
+< <div n="1"/>3 <lang n="english">а wife</lang>
+---
+> <div n="1"/>3 <lang n="english">a wife</lang>
+26148c26148
+< <div n="1"/>1 <lang n="czech">nа světlo, najevo</lang>
+---
+> <div n="1"/>1 <lang n="czech">na světlo, najevo</lang>
+26198c26198
+< <div n="1"/>3 <lang n="english">а present, offering (to a king)</lang>
+---
+> <div n="1"/>3 <lang n="english">a present, offering (to a king)</lang>
+26260c26260
+< <div n="1"/>2 <lang n="russian">(день), c которого начинается период дождей</lang>
+---
+> <div n="1"/>2 <lang n="russian">(день), с которого начинается период дождей</lang>
+26273c26273
+< <div n="1"/>3 <lang n="english">the top-story of а building, palace, temple</lang>
+---
+> <div n="1"/>3 <lang n="english">the top-story of a building, palace, temple</lang>
+26285c26285
+< <div n="1"/>3 <lang n="english">а watchman, guard</lang>
+---
+> <div n="1"/>3 <lang n="english">a watchman, guard</lang>
+26290c26290
+< <div n="1"/>2 <lang n="russian">любимый, приятный, собственный, дорогой, любящий; m. ДРУГ, любимец</lang>
+---
+> <div n="1"/>2 <lang n="russian">любимый, приятный, собственный, дорогой, любящий; m. друг, любимец</lang>
+26301c26301
+< <div n="1"/>1 <lang n="czech">příjemný nа pohled, půvabný; m., n. pr.</lang>
+---
+> <div n="1"/>1 <lang n="czech">příjemný na pohled, půvabný; m., n. pr.</lang>
+26338c26338
+< <div n="1"/>2 <lang n="russian">c радостными мыслями</lang>
+---
+> <div n="1"/>2 <lang n="russian">с радостными мыслями</lang>
+26468c26468
+< <div n="1"/>3 <lang n="english">to be sent; m. а messenger, servant</lang>
+---
+> <div n="1"/>3 <lang n="english">to be sent; m. a messenger, servant</lang>
+26510c26510
+< <div n="1"/>3 <lang n="english">swimming; m. а raft, boat, swimming, flood, jump, leap</lang>
+---
+> <div n="1"/>3 <lang n="english">swimming; m. a raft, boat, swimming, flood, jump, leap</lang>
+26805c26805
+< <div n="1"/>1 <lang n="czech">dosl. "natrhané"; kuśová tráva rozestřená па obětiště</lang>
+---
+> <div n="1"/>1 <lang n="czech">dosl. "natrhané"; kuśová tráva rozestřená na obětiště</lang>
+26867c26867
+< <div n="1"/>3 <lang n="english">а kind of song recited during the morning libation</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of song recited during the morning libation</lang>
+26901c26901
+< <div n="1"/>1 <lang n="czech">mnoho, různě, mnohokrát, па mnohých místech</lang>
+---
+> <div n="1"/>1 <lang n="czech">mnoho, různě, mnohokrát, na mnohých místech</lang>
+27011c27011
+< <div n="1"/>3 <lang n="english">а child, boy; а fool</lang>
+---
+> <div n="1"/>3 <lang n="english">a child, boy; a fool</lang>
+27017c27017
+< <div n="1"/>3 <lang n="english">а girl, young woman</lang>
+---
+> <div n="1"/>3 <lang n="english">a girl, young woman</lang>
+27023c27023
+< <div n="1"/>3 <lang n="english">а child, boy</lang>
+---
+> <div n="1"/>3 <lang n="english">a child, boy</lang>
+27029c27029
+< <div n="1"/>3 <lang n="english">а girl</lang>
+---
+> <div n="1"/>3 <lang n="english">a girl</lang>
+27035c27035
+< <div n="1"/>3 <lang n="english">(а place) where a child is ruling</lang>
+---
+> <div n="1"/>3 <lang n="english">(a place) where a child is ruling</lang>
+27053c27053
+< <div n="1"/>3 <lang n="english">а tear, vapour</lang>
+---
+> <div n="1"/>3 <lang n="english">a tear, vapour</lang>
+27309c27309
+< <div n="1"/>1 <lang n="czech">stav kněžský a válečníků, kněžská а světská moc</lang>
+---
+> <div n="1"/>1 <lang n="czech">stav kněžský a válečníků, kněžská a světská moc</lang>
+27350c27350
+< <div n="1"/>3 <lang n="english">а hymn of praise, spell, sacred spell or text, Veda, piety, celibacy, priestly class, supreme princip, the Absolute</lang>
+---
+> <div n="1"/>3 <lang n="english">a hymn of praise, spell, sacred spell or text, Veda, piety, celibacy, priestly class, supreme princip, the Absolute</lang>
+27368c27368
+< <div n="1"/>3 <lang n="english">resembling а brāhman, по real brāhman</lang>
+---
+> <div n="1"/>3 <lang n="english">resembling a brāhman, no real brāhman</lang>
+27372c27372
+< <div n="1"/>1 <lang n="czech">rozmlouvající о svatých textech, znalec vedských textů</lang>
+---
+> <div n="1"/>1 <lang n="czech">rozmlouvající o svatých textech, znalec vedských textů</lang>
+27449c27449
+< <div n="1"/>3 <lang n="english">а portion, line, series, attachment, devotion, love</lang>
+---
+> <div n="1"/>3 <lang n="english">a portion, line, series, attachment, devotion, love</lang>
+27654c27654
+< <div n="1"/>1 <lang n="czech">sbírka 32 pbvídek о žebravých mniších</lang>
+---
+> <div n="1"/>1 <lang n="czech">sbírka 32 pbvídek o žebravých mniších</lang>
+27656c27656
+< <div n="1"/>3 <lang n="english">а collection of 32 tales</lang>
+---
+> <div n="1"/>3 <lang n="english">a collection of 32 tales</lang>
+27686c27686
+< <div n="1"/>3 <lang n="english">а supporter, protector, lord, husband</lang>
+---
+> <div n="1"/>3 <lang n="english">a supporter, protector, lord, husband</lang>
+27815c27815
+< <div n="1"/>3 <lang n="english">а share, part, lot</lang>
+---
+> <div n="1"/>3 <lang n="english">a share, part, lot</lang>
+27884c27884
+< <div n="1"/>3 <lang n="english">а burden, toil, multitude</lang>
+---
+> <div n="1"/>3 <lang n="english">a burden, toil, multitude</lang>
+27896c27896
+< <div n="1"/>3 <lang n="english">а kind of fabulous bird</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of fabulous bird</lang>
+27970c27970
+< <div n="1"/>2 <lang n="russian">говорить c кем-нибудь, соглашаться, говорить, разговаривать</lang>
+---
+> <div n="1"/>2 <lang n="russian">говорить с кем-нибудь, соглашаться, говорить, разговаривать</lang>
+28067c28067
+< <div n="1"/>3 <lang n="english">а beggar, mendicant, monk</lang>
+---
+> <div n="1"/>3 <lang n="english">a beggar, mendicant, monk</lang>
+28107c28107
+< <div n="1"/>1 <lang n="czech">rozštípený, děravý (о lodí), rozdílný, vzdálený (křivdy)</lang>
+---
+> <div n="1"/>1 <lang n="czech">rozštípený, děravý (o lodí), rozdílný, vzdálený (křivdy)</lang>
+28203c28203
+< <div n="1"/>1 <lang n="czech">jísti, užívati, (těž о pohl. styku), míti v držení (zemi), vládnouti, jisti (plody činů), snášeti</lang>
+---
+> <div n="1"/>1 <lang n="czech">jísti, užívati, (těž o pohl. styku), míti v držení (zemi), vládnouti, jisti (plody činů), snášeti</lang>
+28253c28253
+< <div n="1"/>3 <lang n="english">а being, mankind, world, earth; abode, residence</lang>
+---
+> <div n="1"/>3 <lang n="english">a being, mankind, world, earth; abode, residence</lang>
+28269c28269
+< <div n="1"/>1 <lang n="czech">vznikati, stávati se, přiházeti se, dařiti se, prospivati; roditi se, po- vstávati, existovati, býti, žíti, sídliti, zůstávati; + gen. býti, ра- třiti, sloužiti, hoditi se; býti па straně něčí, pomáhati; + loc. obí- rati se něčím</lang>
+---
+> <div n="1"/>1 <lang n="czech">vznikati, stávati se, přiházeti se, dařiti se, prospivati; roditi se, po- vstávati, existovati, býti, žíti, sídliti, zůstávati; + gen. býti, pa- třiti, sloužiti, hoditi se; býti na straně něčí, pomáhati; + loc. obí- rati se něčím</lang>
+28376c28376
+< <div n="1"/>3 <lang n="english">а crowd of ghosts</lang>
+---
+> <div n="1"/>3 <lang n="english">a crowd of ghosts</lang>
+28520,28521c28520,28521
+< bhūsura m. (bhū  + sura) 
+< <div n="1"/>1 <lang n="czech">bůh nа zemi, bráhman</lang>
+---
+> bhūsura m. (bhū + sura) 
+> <div n="1"/>1 <lang n="czech">bůh na zemi, bráhman</lang>
+28523c28523
+< <div n="1"/>3 <lang n="english">god on earth, а brāhman</lang>
+---
+> <div n="1"/>3 <lang n="english">god on earth, a brāhman</lang>
+28752c28752
+< <div n="1"/>1 <lang n="czech">svrhnouti, připraviti о něco</lang>
+---
+> <div n="1"/>1 <lang n="czech">svrhnouti, připraviti o něco</lang>
+28832c28832
+< <div n="1"/>3 <lang n="english">а brother's wife, sister in law</lang>
+---
+> <div n="1"/>3 <lang n="english">a brother's wife, sister in law</lang>
+28970c28970
+< <div n="1"/>3 <lang n="english">а chest, basket</lang>
+---
+> <div n="1"/>3 <lang n="english">a chest, basket</lang>
+29129c29129
+< <div n="1"/>3 <lang n="english">my, belonging to те</lang>
+---
+> <div n="1"/>3 <lang n="english">my, belonging to me</lang>
+29170,29171c29170,29171
+< <div n="1"/>2 <lang n="russian">смесь c медом (подаваемая гостю, жениху)</lang>
+< <div n="1"/>3 <lang n="english">а mixture of honey (offering made to a guest or to the bridegroom)</lang>
+---
+> <div n="1"/>2 <lang n="russian">смесь с медом (подаваемая гостю, жениху)</lang>
+> <div n="1"/>3 <lang n="english">a mixture of honey (offering made to a guest or to the bridegroom)</lang>
+29187c29187
+< <div n="1"/>1 <lang n="czech">sladký, příjemný, melodický (о zvuku)</lang>
+---
+> <div n="1"/>1 <lang n="czech">sladký, příjemný, melodický (o zvuku)</lang>
+29298c29298
+< <div n="1"/>1 <lang n="czech">mysl, rozum, orgán vnlmání а poznání, záměr, přání</lang>
+---
+> <div n="1"/>1 <lang n="czech">mysl, rozum, orgán vnlmání a poznání, záměr, přání</lang>
+29417c29417
+< <div n="1"/>3 <lang n="english">knowing Vedic texts; m. а brāh- man, adviser</lang>
+---
+> <div n="1"/>3 <lang n="english">knowing Vedic texts; m. a brāh- man, adviser</lang>
+29426c29426
+<  +anumantray  + acc.
+---
+>  +anumantray + acc.
+29477c29477
+< <div n="1"/>3 <lang n="english">name of а j*ṣi</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a j*ṣi</lang>
+29489c29489
+< <div n="1"/>3 <lang n="english">name of а mountain used as a churning-stick at the churning of the ocean</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a mountain used as a churning-stick at the churning of the ocean</lang>
+29511c29511
+< <div n="1"/>1 <lang n="czech">příjemný, půvabný, hluboký (о zvuku)</lang>
+---
+> <div n="1"/>1 <lang n="czech">příjemný, půvabný, hluboký (o zvuku)</lang>
+29555c29555
+< <div n="1"/>3 <lang n="english">а peacock; f. a peahen</lang>
+---
+> <div n="1"/>3 <lang n="english">a peacock; f. a peahen</lang>
+29714c29714
+< <div n="1"/>3 <lang n="english">а gnat</lang>
+---
+> <div n="1"/>3 <lang n="english">a gnat</lang>
+29795c29795
+< <div n="1"/>3 <lang n="english">a great аре</lang>
+---
+> <div n="1"/>3 <lang n="english">a great ape</lang>
+29858c29858
+< <div n="1"/>3 <lang n="english">а great or swollen river</lang>
+---
+> <div n="1"/>3 <lang n="english">a great or swollen river</lang>
+29917c29917
+< <div n="1"/>2 <lang n="russian">связанный c большой опасностью, страшный; n. большая опасность</lang>
+---
+> <div n="1"/>2 <lang n="russian">связанный с большой опасностью, страшный; n. большая опасность</lang>
+29936c29936
+< <div n="1"/>3 <lang n="english">а high descent</lang>
+---
+> <div n="1"/>3 <lang n="english">a high descent</lang>
+29941c29941
+< <div n="1"/>2 <lang n="russian">c большими руками</lang>
+---
+> <div n="1"/>2 <lang n="russian">с большими руками</lang>
+29978c29978
+< <div n="1"/>3 <lang n="english">а great fight</lang>
+---
+> <div n="1"/>3 <lang n="english">a great fight</lang>
+29990c29990
+< <div n="1"/>3 <lang n="english">а great king</lang>
+---
+> <div n="1"/>3 <lang n="english">a great king</lang>
+30001c30001
+< <div n="1"/>2 <lang n="russian">носящий большое оружие (т. e. молнию)</lang>
+---
+> <div n="1"/>2 <lang n="russian">носящий большое оружие (т. е. молнию)</lang>
+30031c30031
+< <div n="1"/>2 <lang n="russian">c великой сущностью, хороший, благородный; m. выдающееся существо</lang>
+---
+> <div n="1"/>2 <lang n="russian">с великой сущностью, хороший, благородный; m. выдающееся существо</lang>
+30038c30038
+< <div n="1"/>3 <lang n="english">lit. "having а great army"; name of a king</lang>
+---
+> <div n="1"/>3 <lang n="english">lit. "having a great army"; name of a king</lang>
+30116c30116
+< <div n="1"/>3 <lang n="english">earth-enjoyer, а king</lang>
+---
+> <div n="1"/>3 <lang n="english">earth-enjoyer, a king</lang>
+30120c30120
+< <div n="1"/>1 <lang n="czech">rostoucí nа zemi, strom</lang>
+---
+> <div n="1"/>1 <lang n="czech">rostoucí na zemi, strom</lang>
+30132c30132
+< <div n="1"/>1 <lang n="czech">toužící ро mnohém, ctižádostivý</lang>
+---
+> <div n="1"/>1 <lang n="czech">toužící po mnohém, ctižádostivý</lang>
+30149c30149
+< <div n="1"/>3 <lang n="english">а great bowman</lang>
+---
+> <div n="1"/>3 <lang n="english">a great bowman</lang>
+30234c30234
+< <div n="1"/>1 <lang n="czech">matka; du. гоdiče; země a nebe</lang>
+---
+> <div n="1"/>1 <lang n="czech">matka; du. rodiče; země a nebe</lang>
+30236c30236
+< <div n="1"/>3 <lang n="english">а mother; du. parents; earth and heaven</lang>
+---
+> <div n="1"/>3 <lang n="english">a mother; du. parents; earth and heaven</lang>
+30254c30254
+< <div n="1"/>3 <lang n="english">а kind of citron tree; n. a citron</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of citron tree; n. a citron</lang>
+30258c30258
+< <div n="1"/>1 <lang n="czech">míra, množství, malá částka; -° a. mající jako svou miru; tak а tak veliký, široký atd.; mající jako hranicí; nic než; jen</lang>
+---
+> <div n="1"/>1 <lang n="czech">míra, množství, malá částka; -° a. mající jako svou miru; tak a tak veliký, široký atd.; mající jako hranicí; nic než; jen</lang>
+30297c30297
+< <div n="1"/>1 <lang n="czech">jarní; m. název druhého jarního měsíce; jaro; potomek Madhuův (Kṛṣṇa а j.)</lang>
+---
+> <div n="1"/>1 <lang n="czech">jarní; m. název druhého jarního měsíce; jaro; potomek Madhuův (Kṛṣṇa a j.)</lang>
+30359c30359
+< <div n="1"/>3 <lang n="english">а supernatural power, deceit, sorcery, illusion</lang>
+---
+> <div n="1"/>3 <lang n="english">a supernatural power, deceit, sorcery, illusion</lang>
+30407c30407
+< <div n="1"/>3 <lang n="english">а wreath, garland, necklace, rosary, series</lang>
+---
+> <div n="1"/>3 <lang n="english">a wreath, garland, necklace, rosary, series</lang>
+30419c30419
+< <div n="1"/>3 <lang n="english">а wreath, garland</lang>
+---
+> <div n="1"/>3 <lang n="english">a wreath, garland</lang>
+30443c30443
+< <div n="1"/>3 <lang n="english">а friend; name of an Āditya (Mitra); n. a friend, friendship,</lang>
+---
+> <div n="1"/>3 <lang n="english">a friend; name of an Āditya (Mitra); n. a friend, friendship,</lang>
+30452c30452
+< <div n="1"/>3 <lang n="english">friendly, coming from а friend</lang>
+---
+> <div n="1"/>3 <lang n="english">friendly, coming from a friend</lang>
+30457c30457
+< <div n="1"/>2 <lang n="russian">вместе, совместно, между собой, один c другим</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе, совместно, между собой, один с другим</lang>
+30470c30470
+< <div n="1"/>3 <lang n="english">forming а pair, paired; m., n. pair, couple; n. pairing, union</lang>
+---
+> <div n="1"/>3 <lang n="english">forming a pair, paired; m., n. pair, couple; n. pairing, union</lang>
+30634c30634
+< <div n="1"/>2 <lang n="russian">развязанный, освобожденный, pазбросанный, нанесенный (удар), посланный, лишенный, избавленный, искупленный</lang>
+---
+> <div n="1"/>2 <lang n="russian">развязанный, освобожденный, разбросанный, нанесенный (удар), посланный, лишенный, избавленный, искупленный</lang>
+30766c30766
+< <div n="1"/>2 <lang n="russian">веселиться, c удовольствием приветствовать</lang>
+---
+> <div n="1"/>2 <lang n="russian">веселиться, с удовольствием приветствовать</lang>
+30827c30827
+< <div n="1"/>3 <lang n="english">а pestle</lang>
+---
+> <div n="1"/>3 <lang n="english">a pestle</lang>
+30849c30849
+< <div n="1"/>1 <lang n="czech">znovu а znovu</lang>
+---
+> <div n="1"/>1 <lang n="czech">znovu a znovu</lang>
+30908c30908
+< <div n="1"/>3 <lang n="english">а body, solid part of the body, form, shape, figure, person</lang>
+---
+> <div n="1"/>3 <lang n="english">a body, solid part of the body, form, shape, figure, person</lang>
+30932c30932
+< <div n="1"/>3 <lang n="english">а root, bottom, basis, origin, beginning, capital (opp. to interest)</lang>
+---
+> <div n="1"/>3 <lang n="english">a root, bottom, basis, origin, beginning, capital (opp. to interest)</lang>
+30994c30994
+< <div n="1"/>2 <lang n="russian">(женщина) c глазами олененка</lang>
+---
+> <div n="1"/>2 <lang n="russian">(женщина) с глазами олененка</lang>
+31016c31016
+< mṛcchakaṭikā f. (mṛd  + śakaṭikā) 
+---
+> mṛcchakaṭikā f. (mṛd + śakaṭikā) 
+31025c31025
+< <div n="1"/>3 <lang n="english">name of а drama</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a drama</lang>
+31049c31049
+< <div n="1"/>3 <lang n="english">(а woman) whose children are dead or die</lang>
+---
+> <div n="1"/>3 <lang n="english">(a woman) whose children are dead or die</lang>
+31133c31133
+< <div n="1"/>3 <lang n="english">name of а mountain in the Vindhya</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a mountain in the Vindhya</lang>
+31151c31151
+< <div n="1"/>3 <lang n="english">cloud-messenger; n. name of а роет by Kālidāsa</lang>
+---
+> <div n="1"/>3 <lang n="english">cloud-messenger; n. name of a poem by Kālidāsa</lang>
+31223c31223
+< mo = mā  + u
+---
+> mo = mā + u
+31363c31363
+< <div n="1"/>2 <lang n="russian">название полубогов, слуг Kyберы; статуя этого полубога</lang>
+---
+> <div n="1"/>2 <lang n="russian">название полубогов, слуг Куберы; статуя этого полубога</lang>
+31400c31400
+< <div n="1"/>3 <lang n="english">name of а collection of sacrificial texts</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a collection of sacrificial texts</lang>
+31415c31415
+< yajñasena m., (-ī  f.), n. pr. 
+---
+> yajñasena m., (-ī f.), n. pr. 
+31419c31419
+< <div n="1"/>1 <lang n="czech">hodný oběti, patřící к oběti</lang>
+---
+> <div n="1"/>1 <lang n="czech">hodný oběti, patřící k oběti</lang>
+31534c31534
+< <div n="1"/>2 <lang n="russian">как, одинакого как; при сравнении: как, как на пример; в качестве союза: так что, чтобы, потому что; npu уверении: как — так; + subjv.: хоть бы</lang>
+---
+> <div n="1"/>2 <lang n="russian">как, одинакого как; при сравнении: как, как на пример; в качестве союза: так что, чтобы, потому что; при уверении: как — так; + subjv.: хоть бы</lang>
+31799c31799
+< <div n="1"/>3 <lang n="english">а pole, stick, twig, thread, string</lang>
+---
+> <div n="1"/>3 <lang n="english">a pole, stick, twig, thread, string</lang>
+31995c31995
+< <div n="1"/>1 <lang n="czech">pohyb, příchod, "obrácení nа někoho", volání, vzývání bohů, prosba</lang>
+---
+> <div n="1"/>1 <lang n="czech">pohyb, příchod, "obrácení na někoho", volání, vzývání bohů, prosba</lang>
+32009c32009
+< <div n="1"/>3 <lang n="english">а watchman, night-watcher</lang>
+---
+> <div n="1"/>3 <lang n="english">a watchman, night-watcher</lang>
+32019c32019
+< <div n="1"/>1 <lang n="czech">laк</lang>
+---
+> <div n="1"/>1 <lang n="czech">lak</lang>
+32108c32108
+< <div n="1"/>3 <lang n="english">а yoke, team, pair, couple, generation, a mundane period (as golden age &c.)</lang>
+---
+> <div n="1"/>3 <lang n="english">a yoke, team, pair, couple, generation, a mundane period (as golden age &c.)</lang>
+32192c32192
+< <div n="1"/>3 <lang n="english">fought; n. а fight, battle, contest</lang>
+---
+> <div n="1"/>3 <lang n="english">fought; n. a fight, battle, contest</lang>
+32204c32204
+< <div n="1"/>3 <lang n="english">а fighter, warrior; f. war, fight, struggle</lang>
+---
+> <div n="1"/>3 <lang n="english">a fighter, warrior; f. war, fight, struggle</lang>
+32222c32222
+< <div n="1"/>3 <lang n="english">а young woman, girl</lang>
+---
+> <div n="1"/>3 <lang n="english">a young woman, girl</lang>
+32234c32234
+< <div n="1"/>3 <lang n="english">"young king"; а crown prince</lang>
+---
+> <div n="1"/>3 <lang n="english">"young king"; a crown prince</lang>
+32273c32273
+< <div n="1"/>3 <lang n="english">name of а demon</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a demon</lang>
+32363c32363
+< <div n="1"/>3 <lang n="english">а young woman, girl</lang>
+---
+> <div n="1"/>3 <lang n="english">a young woman, girl</lang>
+32450c32450
+< <div n="1"/>3 <lang n="english">а warder, protector</lang>
+---
+> <div n="1"/>3 <lang n="english">a warder, protector</lang>
+32496c32496
+< <div n="1"/>1 <lang n="czech">který musí býti chráněn nebо střežen</lang>
+---
+> <div n="1"/>1 <lang n="czech">který musí býti chráněn nebo střežen</lang>
+32606c32606
+< <div n="1"/>3 <lang n="english">а горе, cord, string</lang>
+---
+> <div n="1"/>3 <lang n="english">a rope, cord, string</lang>
+32612c32612
+< <div n="1"/>3 <lang n="english">а battle, fight</lang>
+---
+> <div n="1"/>3 <lang n="english">a battle, fight</lang>
+32660c32660
+< <div n="1"/>3 <lang n="english">а chariot (esp. a war-chariot), warrior</lang>
+---
+> <div n="1"/>3 <lang n="english">a chariot (esp. a war-chariot), warrior</lang>
+32699c32699
+< <div n="1"/>3 <lang n="english">belonging to а chariot; m. a chariot-horse</lang>
+---
+> <div n="1"/>3 <lang n="english">belonging to a chariot; m. a chariot-horse</lang>
+32849c32849
+< <div n="1"/>3 <lang n="english">а roar, cry, singing (of birds), sound</lang>
+---
+> <div n="1"/>3 <lang n="english">a roar, cry, singing (of birds), sound</lang>
+32955c32955
+< <div n="1"/>1 <lang n="czech">zářiti, jеviti se jako, býti jаѕný, vládnouti, kralovati</lang>
+---
+> <div n="1"/>1 <lang n="czech">zářiti, jeviti se jako, býti jaѕný, vládnouti, kralovati</lang>
+32969c32969
+< <div n="1"/>3 <lang n="english">а king's duty, state affairs, royal service</lang>
+---
+> <div n="1"/>3 <lang n="english">a king's duty, state affairs, royal service</lang>
+32987c32987
+< <div n="1"/>3 <lang n="english">а king, ruler, man of the military caste</lang>
+---
+> <div n="1"/>3 <lang n="english">a king, ruler, man of the military caste</lang>
+33009c33009
+< <div n="1"/>1 <lang n="czech">královská dcеra, princezna; Rājpūtka</lang>
+---
+> <div n="1"/>1 <lang n="czech">královská dcera, princezna; Rājpūtka</lang>
+33011c33011
+< <div n="1"/>3 <lang n="english">a king's daughter, princess; а Rājpūt woman</lang>
+---
+> <div n="1"/>3 <lang n="english">a king's daughter, princess; a Rājpūt woman</lang>
+33023c33023
+< <div n="1"/>3 <lang n="english">а kind of disease (phthisis)</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of disease (phthisis)</lang>
+33027c33027
+< <div n="1"/>1 <lang n="czech">král králů; jméno boha Kuberу</lang>
+---
+> <div n="1"/>1 <lang n="czech">král králů; jméno boha Kubery</lang>
+33035c33035
+< <div n="1"/>3 <lang n="english">а sage of royal descent</lang>
+---
+> <div n="1"/>3 <lang n="english">a sage of royal descent</lang>
+33056c33056
+< <div n="1"/>3 <lang n="english">а sacrifice performed at the coronation of a king</lang>
+---
+> <div n="1"/>3 <lang n="english">a sacrifice performed at the coronation of a king</lang>
+33062c33062
+< <div n="1"/>3 <lang n="english">lit. "king-swan"; а species of swan; n. pr.</lang>
+---
+> <div n="1"/>3 <lang n="english">lit. "king-swan"; a species of swan; n. pr.</lang>
+33068c33068
+< <div n="1"/>3 <lang n="english">а streak, row, range</lang>
+---
+> <div n="1"/>3 <lang n="english">a streak, row, range</lang>
+33114,33115c33114,33115
+< <div n="1"/>1 <lang n="czech">jméno арsaras</lang>
+< <div n="1"/>2 <lang n="russian">имя ancap</lang>
+---
+> <div n="1"/>1 <lang n="czech">jméno apsaras</lang>
+> <div n="1"/>2 <lang n="russian">имя апсар</lang>
+33182c33182
+< <div n="1"/>3 <lang n="english">name of an epic роеm (describing "goings of Rāma")</lang>
+---
+> <div n="1"/>3 <lang n="english">name of an epic poem (describing "goings of Rāma")</lang>
+33206c33206
+< <div n="1"/>3 <lang n="english">а kingdom, empire, country, people, subjects</lang>
+---
+> <div n="1"/>3 <lang n="english">a kingdom, empire, country, people, subjects</lang>
+33212c33212
+< <div n="1"/>3 <lang n="english">а supporter of realm, a tributary prince</lang>
+---
+> <div n="1"/>3 <lang n="english">a supporter of realm, a tributary prince</lang>
+33264c33264
+< <div n="1"/>1 <lang n="czech">оpouštěti, dáti па pospas, vy- prazdňovati</lang>
+---
+> <div n="1"/>1 <lang n="czech">opouštěti, dáti na pospas, vy- prazdňovati</lang>
+33377c33377
+< <div n="1"/>3 <lang n="english">а cry, sound, song of birds</lang>
+---
+> <div n="1"/>3 <lang n="english">a cry, sound, song of birds</lang>
+33569c33569
+< <div n="1"/>3 <lang n="english">а scratch, line, drawing</lang>
+---
+> <div n="1"/>3 <lang n="english">a scratch, line, drawing</lang>
+33651c33651
+< <div n="1"/>1 <lang n="czech">zježení chloupků nа těle</lang>
+---
+> <div n="1"/>1 <lang n="czech">zježení chloupků na těle</lang>
+33674c33674
+< <div n="1"/>3 <lang n="english">red, reddish; m. а red horse; а kind of fish; n. pr.</lang>
+---
+> <div n="1"/>3 <lang n="english">red, reddish; m. a red horse; a kind of fish; n. pr.</lang>
+33716c33716
+< <div n="1"/>3 <lang n="english">а mark, sign, characteristic, indication, definition, name, kind, sort, aim, object</lang>
+---
+> <div n="1"/>3 <lang n="english">a mark, sign, characteristic, indication, definition, name, kind, sort, aim, object</lang>
+33744c33744
+< <div n="1"/>1 <lang n="czech">lpěti па něčem, váznouti, viseti, přimykati se k čemu, přicházeti ve styk, následovati</lang>
+---
+> <div n="1"/>1 <lang n="czech">lpěti na něčem, váznouti, viseti, přimykati se k čemu, přicházeti ve styk, následovati</lang>
+33772c33772
+< <div n="1"/>2 <lang n="russian">легкорукий, c ловкими руками</lang>
+---
+> <div n="1"/>2 <lang n="russian">легкорукий, с ловкими руками</lang>
+33903c33903
+< <div n="1"/>1 <lang n="czech">viseti, klesati, zapadati (o slunci), věsiti se na něco, opírati sе, držeti se něčeho, zůstávati pozadu</lang>
+---
+> <div n="1"/>1 <lang n="czech">viseti, klesati, zapadati (o slunci), věsiti se na něco, opírati se, držeti se něčeho, zůstávati pozadu</lang>
+34029c34029
+< <div n="1"/>1 <lang n="czech">zisk а ztráta</lang>
+---
+> <div n="1"/>1 <lang n="czech">zisk a ztráta</lang>
+34100c34100
+<  +anu (anulip),  +vi (vilip),  +sam (samlip)
+---
+>  +anu (anulip), +vi (vilip), +sam (samlip)
+34493c34493
+< <div n="1"/>3 <lang n="english">а cane, esp. the bamboo cane, beam of a house, reed-pipe; lineage, family, race</lang>
+---
+> <div n="1"/>3 <lang n="english">a cane, esp. the bamboo cane, beam of a house, reed-pipe; lineage, family, race</lang>
+34499c34499
+< <div n="1"/>3 <lang n="english">а speaker, orator, teacher</lang>
+---
+> <div n="1"/>3 <lang n="english">a speaker, orator, teacher</lang>
+34563c34563
+< <div n="1"/>1 <lang n="czech">nechati říci nebо recitovati, čísti</lang>
+---
+> <div n="1"/>1 <lang n="czech">nechati říci nebo recitovati, čísti</lang>
+34619c34619
+< <div n="1"/>3 <lang n="english">wielding а thunderbolt in the hand</lang>
+---
+> <div n="1"/>3 <lang n="english">wielding a thunderbolt in the hand</lang>
+34625c34625
+< <div n="1"/>3 <lang n="english">а kind of mortar ("adamantine")</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of mortar ("adamantine")</lang>
+34639c34639
+< <div n="1"/>2 <lang n="russian">шататься, колебаться, сбиться c пути</lang>
+---
+> <div n="1"/>2 <lang n="russian">шататься, колебаться, сбиться с пути</lang>
+34706c34706
+< <div n="1"/>3 <lang n="english">а calf, young of an animal, child; voc. darling; pl. name of a tribe</lang>
+---
+> <div n="1"/>3 <lang n="english">a calf, young of an animal, child; voc. darling; pl. name of a tribe</lang>
+34740c34740
+< <div n="1"/>1 <lang n="czech">nechati mluviti, rozezníti, hráti (nа hud. nástroj)</lang>
+---
+> <div n="1"/>1 <lang n="czech">nechati mluviti, rozezníti, hráti (na hud. nástroj)</lang>
+34771c34771
+< <div n="1"/>2 <lang n="russian">говорить c кем-нибудь, соглашаться; caus. вызвать на разговор</lang>
+---
+> <div n="1"/>2 <lang n="russian">говорить с кем-нибудь, соглашаться; caus. вызвать на разговор</lang>
+34832c34832
+< <div n="1"/>3 <lang n="english">а destroyer, deadly weapon, killing, slaughter, death, capital or corporeal punishment, stroke, blow</lang>
+---
+> <div n="1"/>3 <lang n="english">a destroyer, deadly weapon, killing, slaughter, death, capital or corporeal punishment, stroke, blow</lang>
+34904c34904
+< <div n="1"/>3 <lang n="english">а beloved woman, wife, woman</lang>
+---
+> <div n="1"/>3 <lang n="english">a beloved woman, wife, woman</lang>
+35085c35085
+< <div n="1"/>1 <lang n="czech">dáti nа vybranou</lang>
+---
+> <div n="1"/>1 <lang n="czech">dáti na vybranou</lang>
+35115c35115
+< <div n="1"/>1 <lang n="czech">závislý nа milosti (bohů)</lang>
+---
+> <div n="1"/>1 <lang n="czech">závislý na milosti (bohů)</lang>
+35120c35120
+< varāsi m. = IV vara  + asi m., q. v. 
+---
+> varāsi m. = IV vara + asi m., q. v. 
+35137c35137
+< <div n="1"/>2 <lang n="russian">имя бога ("окружающий", т. e. небо; позже бог моря); море, вода</lang>
+---
+> <div n="1"/>2 <lang n="russian">имя бога ("окружающий", т. е. небо; позже бог моря); море, вода</lang>
+35143c35143
+< <div n="1"/>2 <lang n="russian">жилище Варуны, т. e. море</lang>
+---
+> <div n="1"/>2 <lang n="russian">жилище Варуны, т. е. море</lang>
+35155c35155
+< <div n="1"/>2 <lang n="russian">вoeн. отряд, войско</lang>
+---
+> <div n="1"/>2 <lang n="russian">воен. отряд, войско</lang>
+35196,35197c35196,35197
+< <div n="1"/>1 <lang n="czech">rváti, vyvraceti z коřen</lang>
+< <div n="1"/>2 <lang n="russian">рвать, вырывать c корнем</lang>
+---
+> <div n="1"/>1 <lang n="czech">rváti, vyvraceti z kořen</lang>
+> <div n="1"/>2 <lang n="russian">рвать, вырывать с корнем</lang>
+35268c35268
+< <div n="1"/>1 <lang n="czech">сhtíti se točiti atd.</lang>
+---
+> <div n="1"/>1 <lang n="czech">chtíti se točiti atd.</lang>
+35364c35364
+< <div n="1"/>1 <lang n="czech">jíti vpřed, pohybovati se; vycházeti, vznikati, povstávati, stávati se, přiházeti se; začínati se; zaměstnávati se, obírati se něčím; vésti si, chovati se, jednati; býti, existovati; pokračovati; míti smysl, znamenati (о slově); caus. točiti, uváděti v pohyb; házeti; posílati; rozšiřovati, rozhlašovati; zaváděti, ustanovovati; vyráběti, tvořiti, prováděti, konati, dělati, podnikati; používati</lang>
+---
+> <div n="1"/>1 <lang n="czech">jíti vpřed, pohybovati se; vycházeti, vznikati, povstávati, stávati se, přiházeti se; začínati se; zaměstnávati se, obírati se něčím; vésti si, chovati se, jednati; býti, existovati; pokračovati; míti smysl, znamenati (o slově); caus. točiti, uváděti v pohyb; házeti; posílati; rozšiřovati, rozhlašovati; zaváděti, ustanovovati; vyráběti, tvořiti, prováděti, konati, dělati, podnikati; používati</lang>
+35376c35376
+< <div n="1"/>1 <lang n="czech">točiti se, kroužiti, kutáleti se, váleti se, vyvalovati se (o mracích); odvraceti se, oddělovati se, přicházeti nа scestí, sestupovati; vycházeti, vyvíjeti se; přepadati, útočiti; caus. otáčeti, kutáleti; odvraceti, odstraňovati, odhazovati; vykonávati, prováděti</lang>
+---
+> <div n="1"/>1 <lang n="czech">točiti se, kroužiti, kutáleti se, váleti se, vyvalovati se (o mracích); odvraceti se, oddělovati se, přicházeti na scestí, sestupovati; vycházeti, vyvíjeti se; přepadati, útočiti; caus. otáčeti, kutáleti; odvraceti, odstraňovati, odhazovati; vykonávati, prováděti</lang>
+35414c35414
+< <div n="1"/>3 <lang n="english">to come back; соmе near, approach; succeed; perish; caus. to cause to return, drive away, dismiss</lang>
+---
+> <div n="1"/>3 <lang n="english">to come back; come near, approach; succeed; perish; caus. to cause to return, drive away, dismiss</lang>
+35447c35447
+< <div n="1"/>3 <lang n="english">to make larger, bring up, maке joyful</lang>
+---
+> <div n="1"/>3 <lang n="english">to make larger, bring up, make joyful</lang>
+35661c35661
+< <div n="1"/>1 <lang n="czech">oblékati se, bráti nа sebe</lang>
+---
+> <div n="1"/>1 <lang n="czech">oblékati se, bráti na sebe</lang>
+35744c35744
+< <div n="1"/>3 <lang n="english">name of а courtezan</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a courtezan</lang>
+35816c35816
+<   +caus. vāhayati
+---
+>  +caus. vāhayati
+35835c35835
+< <div n="1"/>1 <lang n="czech">přivážeti, přinášeti, plynouti (о řece)</lang>
+---
+> <div n="1"/>1 <lang n="czech">přivážeti, přinášeti, plynouti (o řece)</lang>
+35861c35861
+< <div n="1"/>3 <lang n="english">lit. "carrying''; a draught animal, charioteer; an epithet of fire</lang>
+---
+> <div n="1"/>3 <lang n="english">lit. "carrying"; a draught animal, charioteer; an epithet of fire</lang>
+35889c35889
+< <div n="1"/>1 <lang n="czech">kdo рак nе?; každý, všichni</lang>
+---
+> <div n="1"/>1 <lang n="czech">kdo pak ne?; každý, všichni</lang>
+35954c35954
+< <div n="1"/>3 <lang n="english">а mеге word</lang>
+---
+> <div n="1"/>3 <lang n="english">a mere word</lang>
+35984c35984
+< <div n="1"/>3 <lang n="english">а mere phrase</lang>
+---
+> <div n="1"/>3 <lang n="english">a mere phrase</lang>
+36014c36014
+< <div n="1"/>3 <lang n="english">strong, swift; m. а horse, hero</lang>
+---
+> <div n="1"/>3 <lang n="english">strong, swift; m. a horse, hero</lang>
+36077c36077
+< <div n="1"/>3 <lang n="english">speech, music; m., n. а musical instrument</lang>
+---
+> <div n="1"/>3 <lang n="english">speech, music; m., n. a musical instrument</lang>
+36083c36083
+< <div n="1"/>3 <lang n="english">а monkey</lang>
+---
+> <div n="1"/>3 <lang n="english">a monkey</lang>
+36099c36099
+< <div n="1"/>1 <lang n="czech">trpasličí pоdobа</lang>
+---
+> <div n="1"/>1 <lang n="czech">trpasličí podoba</lang>
+36101c36101
+< <div n="1"/>3 <lang n="english">the form of а dwarf</lang>
+---
+> <div n="1"/>3 <lang n="english">the form of a dwarf</lang>
+36111c36111
+< <div n="1"/>1 <lang n="czech">podílející se nа dobrém</lang>
+---
+> <div n="1"/>1 <lang n="czech">podílející se na dobrém</lang>
+36118c36118
+< <div n="1"/>2 <lang n="russian">женщина c прекрасными боками</lang>
+---
+> <div n="1"/>2 <lang n="russian">женщина с прекрасными боками</lang>
+36125c36125
+< <div n="1"/>3 <lang n="english">а bird, esp. а crow</lang>
+---
+> <div n="1"/>3 <lang n="english">a bird, esp. a crow</lang>
+36212c36212
+< <div n="1"/>3 <lang n="english">а tail-hair, horse-hair</lang>
+---
+> <div n="1"/>3 <lang n="english">a tail-hair, horse-hair</lang>
+36271c36271
+< <div n="1"/>2 <lang n="russian">принадлежащий Bacy; m. эпитет Индры</lang>
+---
+> <div n="1"/>2 <lang n="russian">принадлежащий Васу; m. эпитет Индры</lang>
+36278c36278
+< <div n="1"/>3 <lang n="english">а garment; du. an upper and under garment</lang>
+---
+> <div n="1"/>3 <lang n="english">a garment; du. an upper and under garment</lang>
+36357c36357
+< <div n="1"/>1 <lang n="czech">rozkvetlý, otevřený (о oku)</lang>
+---
+> <div n="1"/>1 <lang n="czech">rozkvetlý, otevřený (o oku)</lang>
+36562c36562
+< <div n="1"/>2 <lang n="russian">подчинив cвои чувства</lang>
+---
+> <div n="1"/>2 <lang n="russian">подчинив свои чувства</lang>
+36716c36716
+< <div n="1"/>3 <lang n="english">а kind of supernatural beings, possessed of magical power</lang>
+---
+> <div n="1"/>3 <lang n="english">a kind of supernatural beings, possessed of magical power</lang>
+36729c36729
+< <div n="1"/>1 <lang n="czech">кorál</lang>
+---
+> <div n="1"/>1 <lang n="czech">korál</lang>
+36779c36779
+< <div n="1"/>3 <lang n="english">а prescription, rule, law, manner, action, act, work, ceremony, creation, creator, fate</lang>
+---
+> <div n="1"/>3 <lang n="english">a prescription, rule, law, manner, action, act, work, ceremony, creation, creator, fate</lang>
+36848c36848
+< vinā prep,  + acc., instr., abl.
+---
+> vinā prep, + acc., instr., abl.
+36941c36941
+< <div n="1"/>3 <lang n="english">а switch, shaft (of an arrow)</lang>
+---
+> <div n="1"/>3 <lang n="english">a switch, shaft (of an arrow)</lang>
+36947c36947
+< <div n="1"/>3 <lang n="english">а shop</lang>
+---
+> <div n="1"/>3 <lang n="english">a shop</lang>
+36951c36951
+< <div n="1"/>1 <lang n="czech">změna, obrácený роřádek, орак, zánik, výměna, omyl</lang>
+---
+> <div n="1"/>1 <lang n="czech">změna, obrácený pořádek, opak, zánik, výměna, omyl</lang>
+36976c36976
+< <div n="1"/>2 <lang n="russian">c обширными боками</lang>
+---
+> <div n="1"/>2 <lang n="russian">с обширными боками</lang>
+37119c37119
+< <div n="1"/>1 <lang n="czech">pronikajíсí</lang>
+---
+> <div n="1"/>1 <lang n="czech">pronikající</lang>
+37168c37168
+< <div n="1"/>2 <lang n="russian">c отвернувшимся лицом, неохотный</lang>
+---
+> <div n="1"/>2 <lang n="russian">с отвернувшимся лицом, неохотный</lang>
+37301c37301
+< <div n="1"/>3 <lang n="english">а fissure, hole, cave, breach, weak point,</lang>
+---
+> <div n="1"/>3 <lang n="english">a fissure, hole, cave, breach, weak point,</lang>
+37561c37561
+< <div n="1"/>2 <lang n="russian">c большими глазами</lang>
+---
+> <div n="1"/>2 <lang n="russian">с большими глазами</lang>
+37776c37776
+< <div n="1"/>1 <lang n="czech">nа obě nebo různé strany</lang>
+---
+> <div n="1"/>1 <lang n="czech">na obě nebo různé strany</lang>
+37788c37788
+< <div n="1"/>1 <lang n="czech">podílející se nа obou stranách, střední</lang>
+---
+> <div n="1"/>1 <lang n="czech">podílející se na obou stranách, střední</lang>
+37794c37794
+< <div n="1"/>1 <lang n="czech">орога, šíře, mezihra</lang>
+---
+> <div n="1"/>1 <lang n="czech">opora, šíře, mezihra</lang>
+37884c37884
+< <div n="1"/>1 <lang n="czech">rozházený, zasazovaný (о ranách)</lang>
+---
+> <div n="1"/>1 <lang n="czech">rozházený, zasazovaný (o ranách)</lang>
+37906c37906
+< <div n="1"/>2 <lang n="russian">изумленный, сбитый c толку</lang>
+---
+> <div n="1"/>2 <lang n="russian">изумленный, сбитый с толку</lang>
+37913c37913
+< <div n="1"/>3 <lang n="english">sky-goer; m. а bird, the sun</lang>
+---
+> <div n="1"/>3 <lang n="english">sky-goer; m. a bird, the sun</lang>
+38045c38045
+< <div n="1"/>3 <lang n="english">lit. “possessing а hero-army": name of a man</lang>
+---
+> <div n="1"/>3 <lang n="english">lit. “possessing a hero-army": name of a man</lang>
+38067c38067
+< <div n="1"/>1 <lang n="czech">koupený (získaný) геkovností</lang>
+---
+> <div n="1"/>1 <lang n="czech">koupený (získaný) rekovností</lang>
+38092,38093c38092,38093
+< <div n="1"/>2 <lang n="russian">букв. "c волчьими кишками", т. e. обжора; эпитет Бхимы</lang>
+< <div n="1"/>3 <lang n="english">lit. "wolfbellied", i. е. glutton; an epithet of Bhima</lang>
+---
+> <div n="1"/>2 <lang n="russian">букв. "с волчьими кишками", т. е. обжора; эпитет Бхимы</lang>
+> <div n="1"/>3 <lang n="english">lit. "wolfbellied", i. e. glutton; an epithet of Bhima</lang>
+38127c38127
+< <div n="1"/>1 <lang n="czech">zahalený а pokrytý</lang>
+---
+> <div n="1"/>1 <lang n="czech">zahalený a pokrytý</lang>
+38186c38186
+< <div n="1"/>3 <lang n="english">а heap, flock, quantity</lang>
+---
+> <div n="1"/>3 <lang n="english">a heap, flock, quantity</lang>
+38273c38273
+< <div n="1"/>3 <lang n="english">а braid of hair</lang>
+---
+> <div n="1"/>3 <lang n="english">a braid of hair</lang>
+38285c38285
+< <div n="1"/>3 <lang n="english">а ghost (occupying а dead body)</lang>
+---
+> <div n="1"/>3 <lang n="english">a ghost (occupying a dead body)</lang>
+38301c38301
+< <div n="1"/>1 <lang n="czech">který došel па druhý břeh ved</lang>
+---
+> <div n="1"/>1 <lang n="czech">který došel na druhý břeh ved</lang>
+38319c38319
+< <div n="1"/>1 <lang n="czech">to со bylo získano; majetek</lang>
+---
+> <div n="1"/>1 <lang n="czech">to co bylo získano; majetek</lang>
+38378c38378
+< <div n="1"/>3 <lang n="english">а house, abode, chamber, bedroom</lang>
+---
+> <div n="1"/>3 <lang n="english">a house, abode, chamber, bedroom</lang>
+38474c38474
+< <div n="1"/>3 <lang n="english">а king of the town Vairantī (?)</lang>
+---
+> <div n="1"/>3 <lang n="english">a king of the town Vairantī (?)</lang>
+38811,38812c38811,38812
+< <div n="1"/>1 <lang n="czech">jasný; (оdní:) nastavší</lang>
+< <div n="1"/>2 <lang n="russian">ясный; (о due:) наступивший</lang>
+---
+> <div n="1"/>1 <lang n="czech">jasný; (odní:) nastavší</lang>
+> <div n="1"/>2 <lang n="russian">ясный; (о дне:) наступивший</lang>
+38865c38865
+< <div n="1"/>1 <lang n="czech">rána, bolák, рогаnění</lang>
+---
+> <div n="1"/>1 <lang n="czech">rána, bolák, poranění</lang>
+38867c38867
+< <div n="1"/>3 <lang n="english">а wound, sore, hurt</lang>
+---
+> <div n="1"/>3 <lang n="english">a wound, sore, hurt</lang>
+39074c39074
+< <div n="1"/>3 <lang n="english">having hundredfold power, ер. of Indra</lang>
+---
+> <div n="1"/>3 <lang n="english">having hundredfold power, ep. of Indra</lang>
+39096,39098c39096,39098
+< <div n="1"/>1 <lang n="czech">nа sto částí</lang>
+< <div n="1"/>2 <lang n="russian">на cто частей</lang>
+< <div n="1"/>3 <lang n="english">into а hundred parts</lang>
+---
+> <div n="1"/>1 <lang n="czech">na sto částí</lang>
+> <div n="1"/>2 <lang n="russian">на сто частей</lang>
+> <div n="1"/>3 <lang n="english">into a hundred parts</lang>
+39102c39102
+< <div n="1"/>1 <lang n="czech">dosl. "brāhmaṇa о sto cestách (t. j. oddílech) "; název díla</lang>
+---
+> <div n="1"/>1 <lang n="czech">dosl. "brāhmaṇa o sto cestách (t. j. oddílech) "; název díla</lang>
+39128c39128
+< <div n="1"/>3 <lang n="english">lasting a hundred years; n. а hundred years</lang>
+---
+> <div n="1"/>3 <lang n="english">lasting a hundred years; n. a hundred years</lang>
+39133c39133
+< <div n="1"/>2 <lang n="russian">(тысяча коров) co ста лошадьми</lang>
+---
+> <div n="1"/>2 <lang n="russian">(тысяча коров) со ста лошадьми</lang>
+39204c39204
+< <div n="1"/>1 <lang n="czech">nauka о slově, gramatika</lang>
+---
+> <div n="1"/>1 <lang n="czech">nauka o slově, gramatika</lang>
+39216c39216
+< <div n="1"/>1 <lang n="czech">uklidňovati se, utišovati se (о bolesti), přestávati, odpočívati</lang>
+---
+> <div n="1"/>1 <lang n="czech">uklidňovati se, utišovati se (o bolesti), přestávati, odpočívati</lang>
+39251c39251
+< <div n="1"/>3 <lang n="english">name of а demon</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a demon</lang>
+39257c39257
+< <div n="1"/>3 <lang n="english">а conch; name of a man</lang>
+---
+> <div n="1"/>3 <lang n="english">a conch; name of a man</lang>
+39293c39293
+< <div n="1"/>3 <lang n="english">а bed, couch, reposing</lang>
+---
+> <div n="1"/>3 <lang n="english">a bed, couch, reposing</lang>
+39340c39340
+< <div n="1"/>2 <lang n="russian">сказочное животное c восьмью ногами; мужское имя</lang>
+---
+> <div n="1"/>2 <lang n="russian">сказочное животное с восьмью ногами; мужское имя</lang>
+39357c39357
+< <div n="1"/>1 <lang n="czech">šíp nebo kopí, zbraň (о hromu)</lang>
+---
+> <div n="1"/>1 <lang n="czech">šíp nebo kopí, zbraň (o hromu)</lang>
+39458c39458
+< <div n="1"/>3 <lang n="english">а blade of a sword &c.</lang>
+---
+> <div n="1"/>3 <lang n="english">a blade of a sword &c.</lang>
+39500c39500
+< <div n="1"/>3 <lang n="english">sage of the Sākyas, i. е. Buddha</lang>
+---
+> <div n="1"/>3 <lang n="english">sage of the Sākyas, i. e. Buddha</lang>
+39576c39576
+< <div n="1"/>1 <lang n="czech">druh ptáka; jméno mužů а žen</lang>
+---
+> <div n="1"/>1 <lang n="czech">druh ptáka; jméno mužů a žen</lang>
+39578c39578
+< <div n="1"/>3 <lang n="english">kind of а bird; name of men and women</lang>
+---
+> <div n="1"/>3 <lang n="english">kind of a bird; name of men and women</lang>
+39614c39614
+< <div n="1"/>3 <lang n="english">possessing а house, possessing (а thing), full of, amply provided</lang>
+---
+> <div n="1"/>3 <lang n="english">possessing a house, possessing (a thing), full of, amply provided</lang>
+39719c39719
+< <div n="1"/>3 <lang n="english">name of а town</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a town</lang>
+39770c39770
+< <div n="1"/>3 <lang n="english">а stone, rock</lang>
+---
+> <div n="1"/>3 <lang n="english">a stone, rock</lang>
+39964c39964
+< <div n="1"/>2 <lang n="russian">c сияющей улыбкой</lang>
+---
+> <div n="1"/>2 <lang n="russian">с сияющей улыбкой</lang>
+39986c39986
+<  +caus. śobhayati;  +pp. śobhita
+---
+>  +caus. śobhayati; +pp. śobhita
+40006c40006
+< <div n="1"/>2 <lang n="russian">c миловидным лицом</lang>
+---
+> <div n="1"/>2 <lang n="russian">с миловидным лицом</lang>
+40103c40103
+< <div n="1"/>3 <lang n="english">а spear, spit (for roasting), stake, acute pain</lang>
+---
+> <div n="1"/>3 <lang n="english">a spear, spit (for roasting), stake, acute pain</lang>
+40168c40168
+< <div n="1"/>2 <lang n="russian">жара, печаль, rope, скорбь</lang>
+---
+> <div n="1"/>2 <lang n="russian">жара, печаль, горе, скорбь</lang>
+40265c40265
+< <div n="1"/>3 <lang n="english">а place for burning dead bodies, cemetery</lang>
+---
+> <div n="1"/>3 <lang n="english">a place for burning dead bodies, cemetery</lang>
+40361c40361
+< <div n="1"/>3 <lang n="english">the еаг; n. the act of hearing, study, fame</lang>
+---
+> <div n="1"/>3 <lang n="english">the ear; n. the act of hearing, study, fame</lang>
+40413c40413
+< <div n="1"/>1 <lang n="czech">opírati o, klásti па (oheň)</lang>
+---
+> <div n="1"/>1 <lang n="czech">opírati o, klásti na (oheň)</lang>
+40419c40419
+< <div n="1"/>1 <lang n="czech">přidružiti se, uchýliti se, bráti па sebe, hledati útočiště, do- jíti, zvoliti</lang>
+---
+> <div n="1"/>1 <lang n="czech">přidružiti se, uchýliti se, bráti na sebe, hledati útočiště, do- jíti, zvoliti</lang>
+40449c40449
+< <div n="1"/>1 <lang n="czech">opírati se, uchylovati se, bráti nа sebe</lang>
+---
+> <div n="1"/>1 <lang n="czech">opírati se, uchylovati se, bráti na sebe</lang>
+40625c40625
+< <div n="1"/>3 <lang n="english">learned, а brāhman conversant with sacred texts</lang>
+---
+> <div n="1"/>3 <lang n="english">learned, a brāhman conversant with sacred texts</lang>
+40629c40629
+< <div n="1"/>1 <lang n="czech">díla založená па śruti</lang>
+---
+> <div n="1"/>1 <lang n="czech">díla založená na śruti</lang>
+40635c40635
+< <div n="1"/>1 <lang n="czech">míti důvěru, lichotiti (+ dat.); chváliti, oslavovati; býti pyšný nаč (+ instr., loc.)</lang>
+---
+> <div n="1"/>1 <lang n="czech">míti důvěru, lichotiti (+ dat.); chváliti, oslavovati; býti pyšný nač (+ instr., loc.)</lang>
+40667c40667
+< <div n="1"/>3 <lang n="english">а gambler</lang>
+---
+> <div n="1"/>3 <lang n="english">a gambler</lang>
+40679c40679
+< <div n="1"/>3 <lang n="english">а fissure in the earth, hole, den</lang>
+---
+> <div n="1"/>3 <lang n="english">a fissure in the earth, hole, den</lang>
+40683c40683
+< <div n="1"/>1 <lang n="czech">tchán; du. tchán а tchyně</lang>
+---
+> <div n="1"/>1 <lang n="czech">tchán; du. tchán a tchyně</lang>
+40685c40685
+< <div n="1"/>3 <lang n="english">а father-in-law; du. a father and mother-in-law</lang>
+---
+> <div n="1"/>3 <lang n="english">a father-in-law; du. a father and mother-in-law</lang>
+41027c41027
+< <div n="1"/>3 <lang n="english">соmе together, united; n. meeting, assembly</lang>
+---
+> <div n="1"/>3 <lang n="english">come together, united; n. meeting, assembly</lang>
+41119c41119
+< <div n="1"/>2 <lang n="russian">соглашающийся, c одинаковым убеждением</lang>
+---
+> <div n="1"/>2 <lang n="russian">соглашающийся, с одинаковым убеждением</lang>
+41195c41195
+< <div n="1"/>3 <lang n="english">а conglomeration, doubt, uncertainty, danger</lang>
+---
+> <div n="1"/>3 <lang n="english">a conglomeration, doubt, uncertainty, danger</lang>
+41309c41309
+< <div n="1"/>3 <lang n="english">giving over, а gift, bestowing (а daughter in marriage)</lang>
+---
+> <div n="1"/>3 <lang n="english">giving over, a gift, bestowing (a daughter in marriage)</lang>
+41432c41432
+< saṃmānita (pp. caus. ≺ man) 
+---
+> saṃmānita (pp. caus. <man) 
+41525c41525
+< <div n="1"/>3 <lang n="english">а queen</lang>
+---
+> <div n="1"/>3 <lang n="english">a queen</lang>
+41697c41697
+< <div n="1"/>1 <lang n="czech">stojící, zdržující se, zkušený, upjatý nа něco</lang>
+---
+> <div n="1"/>1 <lang n="czech">stojící, zdržující se, zkušený, upjatý na něco</lang>
+41703c41703
+< <div n="1"/>1 <lang n="czech">stání, trvání nа něčеm, stanovený pořádek, omezení, podmínka, vlastnost</lang>
+---
+> <div n="1"/>1 <lang n="czech">stání, trvání na něčem, stanovený pořádek, omezení, podmínka, vlastnost</lang>
+41740c41740
+< <div n="1"/>2 <lang n="russian">c костями (рыбьими)</lang>
+---
+> <div n="1"/>2 <lang n="russian">с костями (рыбьими)</lang>
+41746c41746
+< <div n="1"/>2 <lang n="russian">соединенный c частями, весь, целый, полный</lang>
+---
+> <div n="1"/>2 <lang n="russian">соединенный с частями, весь, целый, полный</lang>
+41770c41770
+< <div n="1"/>2 <lang n="russian">вместе c киннарами</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе с киннарами</lang>
+41807c41807
+< <div n="1"/>3 <lang n="english">а friend, associate; accompanied by</lang>
+---
+> <div n="1"/>3 <lang n="english">a friend, associate; accompanied by</lang>
+41830c41830
+< <div n="1"/>2 <lang n="russian">вместе c гандхарвами</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе с гандхарвами</lang>
+41878c41878
+< <div n="1"/>2 <lang n="russian">близко; + loc.: c</lang>
+---
+> <div n="1"/>2 <lang n="russian">близко; + loc.: с</lang>
+41890c41890
+< <div n="1"/>2 <lang n="russian">проводник, слуга; (y короля:) министр</lang>
+---
+> <div n="1"/>2 <lang n="russian">проводник, слуга; (у короля:) министр</lang>
+41905c41905
+< <div n="1"/>2 <lang n="russian">c людьми</lang>
+---
+> <div n="1"/>2 <lang n="russian">с людьми</lang>
+41923c41923
+< <div n="1"/>2 <lang n="russian">объединенный; + instr. вместе c</lang>
+---
+> <div n="1"/>2 <lang n="russian">объединенный; + instr. вместе с</lang>
+41930c41930
+< <div n="1"/>3 <lang n="english">furnished with а string, ready</lang>
+---
+> <div n="1"/>3 <lang n="english">furnished with a string, ready</lang>
+41936c41936
+< <div n="1"/>3 <lang n="english">а good man</lang>
+---
+> <div n="1"/>3 <lang n="english">a good man</lang>
+41987c41987
+< <div n="1"/>3 <lang n="english">а faithful wife</lang>
+---
+> <div n="1"/>3 <lang n="english">a faithful wife</lang>
+42017c42017
+< <div n="1"/>3 <lang n="english">а good man</lang>
+---
+> <div n="1"/>3 <lang n="english">a good man</lang>
+42155c42155
+< <div n="1"/>3 <lang n="english">а good horse</lang>
+---
+> <div n="1"/>3 <lang n="english">a good horse</lang>
+42178c42178
+< <div n="1"/>2 <lang n="russian">c богами</lang>
+---
+> <div n="1"/>2 <lang n="russian">с богами</lang>
+42310c42310
+< <div n="1"/>2 <lang n="russian">обладающий общим жертвенным пирогом, т.e. находящийся в родстве до шестого колени</lang>
+---
+> <div n="1"/>2 <lang n="russian">обладающий общим жертвенным пирогом, т.е. находящийся в родстве до шестого колени</lang>
+42316c42316
+< <div n="1"/>2 <lang n="russian">вместе c сыном (сыновьями)</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе с сыном (сыновьями)</lang>
+42382c42382
+< <div n="1"/>2 <lang n="russian">вместе c войском, сильный</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе с войском, сильный</lang>
+42406c42406
+< <div n="1"/>2 <lang n="russian">вместе c супругой</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе с супругой</lang>
+42440c42440
+<  +samakṣam,  +samakṣāt, samakṣe adv.
+---
+>  +samakṣam, +samakṣāt, samakṣe adv.
+42467c42467
+< <div n="1"/>3 <lang n="english">an assembly, festival (as wedding &с.)</lang>
+---
+> <div n="1"/>3 <lang n="english">an assembly, festival (as wedding &c.)</lang>
+42573c42573
+< <div n="1"/>1 <lang n="czech">období, rок</lang>
+---
+> <div n="1"/>1 <lang n="czech">období, rok</lang>
+42591,42592c42591,42592
+< <div n="1"/>1 <lang n="czech">vstoupivší; (о ptácích:) vzlétnuvší</lang>
+< <div n="1"/>2 <lang n="russian">вступивший; (о nmuuax:) взлетевший</lang>
+---
+> <div n="1"/>1 <lang n="czech">vstoupivší; (o ptácích:) vzlétnuvší</lang>
+> <div n="1"/>2 <lang n="russian">вступивший; (о птицах:) взлетевший</lang>
+42609,42610c42609,42610
+< <div n="1"/>1 <lang n="czech">s matкоu</lang>
+< <div n="1"/>2 <lang n="russian">c матерью</lang>
+---
+> <div n="1"/>1 <lang n="czech">s matkou</lang>
+> <div n="1"/>2 <lang n="russian">с матерью</lang>
+42639c42639
+< <div n="1"/>1 <lang n="czech">skončivší, minuvší (о noci)</lang>
+---
+> <div n="1"/>1 <lang n="czech">skončivší, minuvší (o noci)</lang>
+42759c42759
+< <div n="1"/>1 <lang n="czech">býti rovným, stavěti se nа roveň</lang>
+---
+> <div n="1"/>1 <lang n="czech">býti rovným, stavěti se na roveň</lang>
+42837c42837
+< <div n="1"/>1 <lang n="czech">vycházející (о slunci)</lang>
+---
+> <div n="1"/>1 <lang n="czech">vycházející (o slunci)</lang>
+42915c42915
+< <div n="1"/>1 <lang n="czech">vytékati, vycházeti; (о hlase:) zaznívati</lang>
+---
+> <div n="1"/>1 <lang n="czech">vytékati, vycházeti; (o hlase:) zaznívati</lang>
+42989c42989
+< <div n="1"/>3 <lang n="english">name of а river; name of the goddess of eloquence</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a river; name of the goddess of eloquence</lang>
+42994c42994
+< <div n="1"/>2 <lang n="russian">вместе c Рамой</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе с Рамой</lang>
+43000c43000
+< <div n="1"/>2 <lang n="russian">c королевством</lang>
+---
+> <div n="1"/>2 <lang n="russian">с королевством</lang>
+43099c43099
+< <div n="1"/>2 <lang n="russian">целый, полный, весь, каждый; c отрицанием: никакой</lang>
+---
+> <div n="1"/>2 <lang n="russian">целый, полный, весь, каждый; с отрицанием: никакой</lang>
+43122c43122
+< <div n="1"/>1 <lang n="czech">nа každý způsob, všemožně, zcela</lang>
+---
+> <div n="1"/>1 <lang n="czech">na každý způsob, všemožně, zcela</lang>
+43141c43141
+< <div n="1"/>2 <lang n="russian">c вполне безукоризненным телом</lang>
+---
+> <div n="1"/>2 <lang n="russian">с вполне безукоризненным телом</lang>
+43147c43147
+< <div n="1"/>2 <lang n="russian">c Лакшманой</lang>
+---
+> <div n="1"/>2 <lang n="russian">с Лакшманой</lang>
+43153c43153
+< <div n="1"/>2 <lang n="russian">c одинаковой меткой, родственный</lang>
+---
+> <div n="1"/>2 <lang n="russian">с одинаковой меткой, родственный</lang>
+43195c43195
+< <div n="1"/>2 <lang n="russian">вместе c лошадьми</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе с лошадьми</lang>
+43201,43202c43201,43202
+< <div n="1"/>2 <lang n="russian">поощритель; n. pr. имя бога, отождествленного c богом солнца</lang>
+< <div n="1"/>3 <lang n="english">a stimulator; n. pr. name of а god identified with the god of sun</lang>
+---
+> <div n="1"/>2 <lang n="russian">поощритель; n. pr. имя бога, отождествленного с богом солнца</lang>
+> <div n="1"/>3 <lang n="english">a stimulator; n. pr. name of a god identified with the god of sun</lang>
+43219c43219
+< <div n="1"/>2 <lang n="russian">c удивлением; удивленный, пораженный</lang>
+---
+> <div n="1"/>2 <lang n="russian">с удивлением; удивленный, пораженный</lang>
+43231c43231
+< <div n="1"/>2 <lang n="russian">c одинаковой силой или мощью</lang>
+---
+> <div n="1"/>2 <lang n="russian">с одинаковой силой или мощью</lang>
+43237c43237
+< <div n="1"/>2 <lang n="russian">c деревьями</lang>
+---
+> <div n="1"/>2 <lang n="russian">с деревьями</lang>
+43255c43255
+< <div n="1"/>2 <lang n="russian">c одинаковым действием, единодушный</lang>
+---
+> <div n="1"/>2 <lang n="russian">с одинаковым действием, единодушный</lang>
+43273c43273
+< <div n="1"/>2 <lang n="russian">c телом, воплощенный</lang>
+---
+> <div n="1"/>2 <lang n="russian">с телом, воплощенный</lang>
+43285c43285
+< <div n="1"/>2 <lang n="russian">c острием стрелы (в теле), раненный</lang>
+---
+> <div n="1"/>2 <lang n="russian">с острием стрелы (в теле), раненный</lang>
+43357c43357
+< <div n="1"/>2 <lang n="russian">c</lang>
+---
+> <div n="1"/>2 <lang n="russian">с</lang>
+43406c43406
+< <div n="1"/>3 <lang n="english">giving а thousand</lang>
+---
+> <div n="1"/>3 <lang n="english">giving a thousand</lang>
+43410c43410
+< <div n="1"/>1 <lang n="czech">nа tisíc částí</lang>
+---
+> <div n="1"/>1 <lang n="czech">na tisíc částí</lang>
+43412c43412
+< <div n="1"/>3 <lang n="english">in а thousand parts</lang>
+---
+> <div n="1"/>3 <lang n="english">in a thousand parts</lang>
+43418c43418
+< <div n="1"/>3 <lang n="english">а thousandfold Soma-pressing</lang>
+---
+> <div n="1"/>3 <lang n="english">a thousandfold Soma-pressing</lang>
+43447c43447
+< <div n="1"/>2 <lang n="russian">c сердцем, сердечный; n. созвучие сердец</lang>
+---
+> <div n="1"/>2 <lang n="russian">с сердцем, сердечный; n. созвучие сердец</lang>
+43498c43498
+< <div n="1"/>2 <lang n="russian">вместе, одновременно; c</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе, одновременно; с</lang>
+43516c43516
+< <div n="1"/>2 <lang n="russian">связанный c лекарством</lang>
+---
+> <div n="1"/>2 <lang n="russian">связанный с лекарством</lang>
+43534c43534
+< <div n="1"/>2 <lang n="russian">c огнем, c Агни</lang>
+---
+> <div n="1"/>2 <lang n="russian">с огнем, с Агни</lang>
+43540c43540
+< <div n="1"/>2 <lang n="russian">c побегами</lang>
+---
+> <div n="1"/>2 <lang n="russian">с побегами</lang>
+43577c43577
+< <div n="1"/>3 <lang n="english">to bring to а goal, set right, subdue, master, win over</lang>
+---
+> <div n="1"/>3 <lang n="english">to bring to a goal, set right, subdue, master, win over</lang>
+43601c43601
+< <div n="1"/>3 <lang n="english">а faithful wife</lang>
+---
+> <div n="1"/>3 <lang n="english">a faithful wife</lang>
+43631c43631
+< <div n="1"/>3 <lang n="english">а summit, mountain-ridge</lang>
+---
+> <div n="1"/>3 <lang n="english">a summit, mountain-ridge</lang>
+43648c43648
+< <div n="1"/>2 <lang n="russian">со свитой, c дружиной</lang>
+---
+> <div n="1"/>2 <lang n="russian">со свитой, с дружиной</lang>
+43691c43691
+< <div n="1"/>3 <lang n="english">а song, а kind of Vedic texts</lang>
+---
+> <div n="1"/>3 <lang n="english">a song, a kind of Vedic texts</lang>
+43731c43731
+< <div n="1"/>1 <lang n="czech">obecné ргavidlo</lang>
+---
+> <div n="1"/>1 <lang n="czech">obecné pravidlo</lang>
+43761c43761
+< <div n="1"/>1 <lang n="czech">večer а ráno</lang>
+---
+> <div n="1"/>1 <lang n="czech">večer a ráno</lang>
+43775c43775
+< <div n="1"/>3 <lang n="english">the core of а thing, substance, the essential part, firmness, strength</lang>
+---
+> <div n="1"/>3 <lang n="english">the core of a thing, substance, the essential part, firmness, strength</lang>
+43810c43810
+< <div n="1"/>2 <lang n="russian">вместе, c</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе, с</lang>
+43829c43829
+< <div n="1"/>3 <lang n="english">а Soma libation</lang>
+---
+> <div n="1"/>3 <lang n="english">a Soma libation</lang>
+43846c43846
+< <div n="1"/>2 <lang n="russian">c лошадьми и возчиками</lang>
+---
+> <div n="1"/>2 <lang n="russian">с лошадьми и возчиками</lang>
+43852c43852
+< <div n="1"/>2 <lang n="russian">c демонами</lang>
+---
+> <div n="1"/>2 <lang n="russian">с демонами</lang>
+43871c43871
+< <div n="1"/>3 <lang n="english">consisting of а thousand, thousandfold; m. a detachment or group consisting of a thousand men; n. an aggregate of a thousand or of many thousand</lang>
+---
+> <div n="1"/>3 <lang n="english">consisting of a thousand, thousandfold; m. a detachment or group consisting of a thousand men; n. an aggregate of a thousand or of many thousand</lang>
+43904c43904
+< <div n="1"/>3 <lang n="english">а lion's roar, a (war-) cry</lang>
+---
+> <div n="1"/>3 <lang n="english">a lion's roar, a (war-) cry</lang>
+43965c43965
+< <div n="1"/>1 <lang n="czech">bílý а černý</lang>
+---
+> <div n="1"/>1 <lang n="czech">bílý a černý</lang>
+44040c44040
+< <div n="1"/>1 <lang n="czech">učesání vlasů nа cestičku</lang>
+---
+> <div n="1"/>1 <lang n="czech">učesání vlasů na cestičku</lang>
+44069c44069
+< <div n="1"/>3 <lang n="english">а good family; a. sprung from a good family</lang>
+---
+> <div n="1"/>3 <lang n="english">a good family; a. sprung from a good family</lang>
+44089c44089
+< <div n="1"/>2 <lang n="russian">мудрый, c большой силой</lang>
+---
+> <div n="1"/>2 <lang n="russian">мудрый, с большой силой</lang>
+44285c44285
+< <div n="1"/>3 <lang n="english">а presser of the Soma, an offerer of a Soma libation</lang>
+---
+> <div n="1"/>3 <lang n="english">a presser of the Soma, an offerer of a Soma libation</lang>
+44398c44398
+< <div n="1"/>2 <lang n="russian">"c хорошими мыслями"</lang>
+---
+> <div n="1"/>2 <lang n="russian">"с хорошими мыслями"</lang>
+44404c44404
+< <div n="1"/>2 <lang n="russian">c хорошими мыслями; n. цветок</lang>
+---
+> <div n="1"/>2 <lang n="russian">с хорошими мыслями; n. цветок</lang>
+44410c44410
+< <div n="1"/>2 <lang n="russian">c ласковыми мыслями</lang>
+---
+> <div n="1"/>2 <lang n="russian">с ласковыми мыслями</lang>
+44440c44440
+< <div n="1"/>2 <lang n="russian">c ясным лицом, благосклонный</lang>
+---
+> <div n="1"/>2 <lang n="russian">с ясным лицом, благосклонный</lang>
+44590c44590
+< <div n="1"/>2 <lang n="russian">c прекрасным телом</lang>
+---
+> <div n="1"/>2 <lang n="russian">с прекрасным телом</lang>
+44656c44656
+< <div n="1"/>2 <lang n="russian">c прекрасными боками</lang>
+---
+> <div n="1"/>2 <lang n="russian">с прекрасными боками</lang>
+44699c44699
+< <div n="1"/>3 <lang n="english">а good eye-witness</lang>
+---
+> <div n="1"/>3 <lang n="english">a good eye-witness</lang>
+44711c44711
+< <div n="1"/>3 <lang n="english">а noble horse</lang>
+---
+> <div n="1"/>3 <lang n="english">a noble horse</lang>
+44723c44723
+< <div n="1"/>3 <lang n="english">а friend, friends</lang>
+---
+> <div n="1"/>3 <lang n="english">a friend, friends</lang>
+44813c44813
+< <div n="1"/>3 <lang n="english">lit. threаd-holder"; stage-manager</lang>
+---
+> <div n="1"/>3 <lang n="english">lit. thread-holder"; stage-manager</lang>
+44885c44885
+< <div n="1"/>3 <lang n="english">а spear, weapon, army</lang>
+---
+> <div n="1"/>3 <lang n="english">a spear, weapon, army</lang>
+44902c44902
+< <div n="1"/>2 <lang n="russian">вместе c Индрой</lang>
+---
+> <div n="1"/>2 <lang n="russian">вместе с Индрой</lang>
+44983c44983
+< <div n="1"/>2 <lang n="russian">c последней книгой (т. e. седьмой)</lang>
+---
+> <div n="1"/>2 <lang n="russian">с последней книгой (т. е. седьмой)</lang>
+44989c44989
+< <div n="1"/>2 <lang n="russian">c процентами</lang>
+---
+> <div n="1"/>2 <lang n="russian">с процентами</lang>
+45065c45065
+< <div n="1"/>3 <lang n="english">stuccoed; ( m. ), n. а stuccoed mansion, palace</lang>
+---
+> <div n="1"/>3 <lang n="english">stuccoed; ( m. ), n. a stuccoed mansion, palace</lang>
+45088c45088
+< <div n="1"/>2 <lang n="russian">милостивый государьí (npu обращении к брахману); друг любезныйí, дорогойí</lang>
+---
+> <div n="1"/>2 <lang n="russian">милостивый государь (при обращении к брахману); друг любезный, дорогой</lang>
+45093c45093
+< <div n="1"/>1 <lang n="czech">král Sauvīrů; pl. název starověkých obyvatel па území poblíž Indu</lang>
+---
+> <div n="1"/>1 <lang n="czech">král Sauvīrů; pl. název starověkých obyvatel na území poblíž Indu</lang>
+45095c45095
+< <div n="1"/>3 <lang n="english">а king of the Sauvīras; pl. name of an ancient people inhabiting a district in the neighbourhood of the Indus</lang>
+---
+> <div n="1"/>3 <lang n="english">a king of the Sauvīras; pl. name of an ancient people inhabiting a district in the neighbourhood of the Indus</lang>
+45125c45125
+< <div n="1"/>3 <lang n="english">а king of the Suhmas (an ancient people in the west of Bengal)</lang>
+---
+> <div n="1"/>3 <lang n="english">a king of the Suhmas (an ancient people in the west of Bengal)</lang>
+45239c45239
+< <div n="1"/>3 <lang n="english">а tuft of grass, cluster; sheaf; a bush, shrub; n. a post, pillar</lang>
+---
+> <div n="1"/>3 <lang n="english">a tuft of grass, cluster; sheaf; a bush, shrub; n. a post, pillar</lang>
+45401c45401
+< <div n="1"/>3 <lang n="english">а thief, robber</lang>
+---
+> <div n="1"/>3 <lang n="english">a thief, robber</lang>
+45443c45443
+< <div n="1"/>3 <lang n="english">guided by а woman; (a place) where a woman is ruling</lang>
+---
+> <div n="1"/>3 <lang n="english">guided by a woman; (a place) where a woman is ruling</lang>
+45449c45449
+< <div n="1"/>3 <lang n="english">а woman regarded as a mere tool of man</lang>
+---
+> <div n="1"/>3 <lang n="english">a woman regarded as a mere tool of man</lang>
+45454,45455c45454,45455
+< <div n="1"/>2 <lang n="russian">связь c женщиной; привязанность к женщине; а. привязанный к женщине</lang>
+< <div n="1"/>3 <lang n="english">intercourse with а woman; affection for a woman; a. attached to a woman</lang>
+---
+> <div n="1"/>2 <lang n="russian">связь с женщиной; привязанность к женщине; а. привязанный к женщине</lang>
+> <div n="1"/>3 <lang n="english">intercourse with a woman; affection for a woman; a. attached to a woman</lang>
+45516c45516
+< <div n="1"/>1 <lang n="czech">státi nа něčem, zaujímati, obývati; státi nad něčím, míti dozor, spravovati; přemáhati, vítěziti; stoupati vzhůru; přichá- zeti k něčemu</lang>
+---
+> <div n="1"/>1 <lang n="czech">státi na něčem, zaujímati, obývati; státi nad něčím, míti dozor, spravovati; přemáhati, vítěziti; stoupati vzhůru; přichá- zeti k něčemu</lang>
+45540c45540
+< <div n="1"/>1 <lang n="czech">šlapati nа něco, přemáhati; postupovati k něčemu; dlíti, žíti</lang>
+---
+> <div n="1"/>1 <lang n="czech">šlapati na něco, přemáhati; postupovati k něčemu; dlíti, žíti</lang>
+45558,45559c45558,45559
+< <div n="1"/>1 <lang n="czech">státi nablízku; stoupati vzhůru, jíti k něčemu; jednati podle něčeho, dělati, vykonávati, podnikati; zastávati něčí názor, uznávati; starati se о něco</lang>
+< <div n="1"/>2 <lang n="russian">стоять по близости; подниматься вверх, итти к чему-нибудь; действовать согласно c чем-нибудь, делать, исполнять, предпринимать; защищать мнение кого-нибудь, признавать; заботиться</lang>
+---
+> <div n="1"/>1 <lang n="czech">státi nablízku; stoupati vzhůru, jíti k něčemu; jednati podle něčeho, dělati, vykonávati, podnikati; zastávati něčí názor, uznávati; starati se o něco</lang>
+> <div n="1"/>2 <lang n="russian">стоять по близости; подниматься вверх, итти к чему-нибудь; действовать согласно с чем-нибудь, делать, исполнять, предпринимать; защищать мнение кого-нибудь, признавать; заботиться</lang>
+45571c45571
+< <div n="1"/>2 <lang n="russian">стоять вблизи, приближаться; прислуживать, быть под рукой, быть в распоряжении; доставаться кому-нибудь; med. присутствовать, встречаться, дружиться) c кем-нибудь, примиряться; почитать</lang>
+---
+> <div n="1"/>2 <lang n="russian">стоять вблизи, приближаться; прислуживать, быть под рукой, быть в распоряжении; доставаться кому-нибудь; med. присутствовать, встречаться, дружиться) с кем-нибудь, примиряться; почитать</lang>
+45600c45600
+< <div n="1"/>1 <lang n="czech">státi, zůstávati, bydleti; státi nehybně, ustávati; spočívati na něčem, opírati se о něco; rozprostírati se; prospívati, dařiti se; odporovati</lang>
+---
+> <div n="1"/>1 <lang n="czech">státi, zůstávati, bydleti; státi nehybně, ustávati; spočívati na něčem, opírati se o něco; rozprostírati se; prospívati, dařiti se; odporovati</lang>
+45625c45625
+< <div n="1"/>2 <lang n="russian">подходить вместе c кем-нибудь; отправляться в путь вместе с кем-нибудь; двигаться вперед</lang>
+---
+> <div n="1"/>2 <lang n="russian">подходить вместе с кем-нибудь; отправляться в путь вместе с кем-нибудь; двигаться вперед</lang>
+45667c45667
+< <div n="1"/>2 <lang n="russian">стояние, положение, состояние, условия; место, помещение, местожительство, дом, меcт- ность; область, сфера; пост, должность; случай</lang>
+---
+> <div n="1"/>2 <lang n="russian">стояние, положение, состояние, условия; место, помещение, местожительство, дом, местность; область, сфера; пост, должность; случай</lang>
+45684c45684
+< <div n="1"/>1 <lang n="czech">hliněný pekáč; hrnec nа vaření; kotel</lang>
+---
+> <div n="1"/>1 <lang n="czech">hliněný pekáč; hrnec na vaření; kotel</lang>
+45764c45764
+< <div n="1"/>3 <lang n="english">а performer of ablution (of the bones of a dead man)</lang>
+---
+> <div n="1"/>3 <lang n="english">a performer of ablution (of the bones of a dead man)</lang>
+45770c45770
+< <div n="1"/>3 <lang n="english">а sinew, string of a bow</lang>
+---
+> <div n="1"/>3 <lang n="english">a sinew, string of a bow</lang>
+45903c45903
+< <div n="1"/>1 <lang n="czech">tučný; (о zemi:) žírný, bohatý</lang>
+---
+> <div n="1"/>1 <lang n="czech">tučný; (o zemi:) žírný, bohatý</lang>
+46003c46003
+< <div n="1"/>2 <lang n="russian">когда предшествует улыбка = c улыбкой</lang>
+---
+> <div n="1"/>2 <lang n="russian">когда предшествует улыбка = с улыбкой</lang>
+46009c46009
+< <div n="1"/>2 <lang n="russian">сохраняемый в памяти, припоминаемый, передаваемый, удержанный пo традиции, предписанный</lang>
+---
+> <div n="1"/>2 <lang n="russian">сохраняемый в памяти, припоминаемый, передаваемый, удержанный по традиции, предписанный</lang>
+46128c46128
+< <div n="1"/>1 <lang n="czech">vztahující se к vlastnímu zdraví</lang>
+---
+> <div n="1"/>1 <lang n="czech">vztahující se k vlastnímu zdraví</lang>
+46243c46243
+< <div n="1"/>2 <lang n="russian">собственный выбор, т. e. выбор супруга</lang>
+---
+> <div n="1"/>2 <lang n="russian">собственный выбор, т. е. выбор супруга</lang>
+46254c46254
+< <div n="1"/>1 <lang n="czech">sám, sám od sebe, о své újmě</lang>
+---
+> <div n="1"/>1 <lang n="czech">sám, sám od sebe, o své újmě</lang>
+46260c46260
+< <div n="1"/>1 <lang n="czech">přišlý о své újmě</lang>
+---
+> <div n="1"/>1 <lang n="czech">přišlý o své újmě</lang>
+46529c46529
+< <div n="1"/>3 <lang n="english">а goose, swan, flamingo; the sun, soul</lang>
+---
+> <div n="1"/>3 <lang n="english">a goose, swan, flamingo; the sun, soul</lang>
+46546c46546
+< <div n="1"/>2 <lang n="russian">oй!</lang>
+---
+> <div n="1"/>2 <lang n="russian">ой!</lang>
+46649c46649
+< <div n="1"/>3 <lang n="english">name of а monkey (lit. "having strong jaws")</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a monkey (lit. "having strong jaws")</lang>
+46654c46654
+< <div n="1"/>2 <lang n="russian">выражает удивление, сочувствие, npuвemcmвue</lang>
+---
+> <div n="1"/>2 <lang n="russian">выражает удивление, сочувствие, приветствие</lang>
+46683c46683
+< <div n="1"/>1 <lang n="czech">jedoucí nа koni; m. jezdec</lang>
+---
+> <div n="1"/>1 <lang n="czech">jedoucí na koni; m. jezdec</lang>
+46690c46690
+< <div n="1"/>2 <lang n="russian">o!</lang>
+---
+> <div n="1"/>2 <lang n="russian">о!</lang>
+46695c46695
+< <div n="1"/>1 <lang n="czech">bráti, chápati, získávati, pojmouti (za ženu); přinášeti, obětovati; odnášeti, loupiti, ničiti, strhávati, získávati nа svou stranu, uchvacovati, okouzlovati</lang>
+---
+> <div n="1"/>1 <lang n="czech">bráti, chápati, získávati, pojmouti (za ženu); přinášeti, obětovati; odnášeti, loupiti, ničiti, strhávati, získávati na svou stranu, uchvacovati, okouzlovati</lang>
+46826c46826
+< <div n="1"/>3 <lang n="english">а stronghold, palace, dwelling</lang>
+---
+> <div n="1"/>3 <lang n="english">a stronghold, palace, dwelling</lang>
+46863c46863
+< <div n="1"/>1 <lang n="czech">zježení (chloupků nа těle), vzrušení, radost, potěšení; syn Kā- mův; n. pr.</lang>
+---
+> <div n="1"/>1 <lang n="czech">zježení (chloupků na těle), vzrušení, radost, potěšení; syn Kā- mův; n. pr.</lang>
+46877c46877
+< <div n="1"/>3 <lang n="english">name of а king</lang>
+---
+> <div n="1"/>3 <lang n="english">name of a king</lang>
+46883c46883
+< <div n="1"/>3 <lang n="english">а plough</lang>
+---
+> <div n="1"/>3 <lang n="english">a plough</lang>
+46969c46969
+< <div n="1"/>2 <lang n="russian">ax! (выражает печаль, удивление)</lang>
+---
+> <div n="1"/>2 <lang n="russian">ах! (выражает печаль, удивление)</lang>
+47085c47085
+< <div n="1"/>1 <lang n="czech">totiž, nа příklad, věru</lang>
+---
+> <div n="1"/>1 <lang n="czech">totiž, na příklad, věru</lang>
+47165c47165
+< <div n="1"/>3 <lang n="english">а collection of fables (lit. "salutary instruction")</lang>
+---
+> <div n="1"/>3 <lang n="english">a collection of fables (lit. "salutary instruction")</lang>
+47209c47209
+< <div n="1"/>2 <lang n="russian">c золотым языком</lang>
+---
+> <div n="1"/>2 <lang n="russian">с золотым языком</lang>
+47255c47255
+<   +pass. hūyate
+---
+>  +pass. hūyate
+47279c47279
+< <div n="1"/>3 <lang n="english">fire (lit. ‘‘oblation-eater'')</lang>
+---
+> <div n="1"/>3 <lang n="english">fire (lit. ‘‘oblation-eater")</lang>
+47319c47319
+< <div n="1"/>1 <lang n="czech">ježící se (о chloupcích těla), rozradostněn, veselý</lang>
+---
+> <div n="1"/>1 <lang n="czech">ježící se (o chloupcích těla), rozradostněn, veselý</lang>
+47331c47331
+< <div n="1"/>1 <lang n="czech">pro, kvůli, nа základě</lang>
+---
+> <div n="1"/>1 <lang n="czech">pro, kvůli, na základě</lang>
+47333c47333
+< <div n="1"/>3 <lang n="english">for а cause, on account of, for the sake of</lang>
+---
+> <div n="1"/>3 <lang n="english">for a cause, on account of, for the sake of</lang>
+47380c47380
+< <div n="1"/>2 <lang n="russian">жертвование, должность xo- тара, жертва</lang>
+---
+> <div n="1"/>2 <lang n="russian">жертвование, должность хотара, жертва</lang>
+47459c47459
+< <div n="1"/>3 <lang n="english">to be called &с.</lang>
+---
+> <div n="1"/>3 <lang n="english">to be called &c.</lang>

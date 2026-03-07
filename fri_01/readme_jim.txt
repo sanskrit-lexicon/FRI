@@ -272,3 +272,6 @@ Known things remaining to do.
 1. scans
 2. csl-homepage
 3. csl-doc
+--------------------------------------------
+02-05-2025
+For further work, see ../issue4/readme.txt

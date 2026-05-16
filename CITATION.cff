@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+type: dataset
+title: Fríš (Frish) Sanskrit Reader / Sanskrtská čítanka Vol. 2
+message: If you use this dataset, please cite both the digital edition and the printed source it digitises.
+license: CC-BY-SA-4.0
+repository-code: https://github.com/sanskrit-lexicon/FRI
+date-released: 2015-01-01
+version: 1.0.0
+keywords:
+  - sanskrit
+  - lexicon
+  - cdsl
+  - cologne-digital-sanskrit-lexicon
+  - dictionary
+  - skt-cze-rus
+authors:
+  - name: "Cologne Digital Sanskrit Lexicon project contributors"
+    website: https://www.sanskrit-lexicon.uni-koeln.de/
+preferred-citation:
+  type: book
+  title: Fríš (Frish) Sanskrit Reader / Sanskrtská čítanka Vol. 2
+  year: 2015
+  authors:
+    - family-names: "Fríš"
+      given-names: "Oldřich"
+  notes: "Czech-Russian Sanskrit reader/chrestomathy not a lexicon"

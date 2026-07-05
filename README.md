@@ -1,6 +1,8 @@
 FRI
 ===
 
+_Created: 26-01-2024 · Last updated: 05-07-2026_
+
 Frish, Oldřich (1903–1955). *Sanskrtská čítanka* (Sanskrit Reader). Moscow: ABV, 2015. Vol. 2.
 
 This repository holds corrections and tooling for the [Cologne digitization](http://www.sanskrit-lexicon.uni-koeln.de/) of the FRI Sanskrit reader. The canonical source data (`fri.txt`) lives in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the build system is in [csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork). Issues and corrections are tracked at the [FRI GitHub issue tracker](https://github.com/sanskrit-lexicon/FRI/issues).
@@ -12,6 +14,30 @@ This repository holds corrections and tooling for the [Cologne digitization](htt
 | `fri_01/` | Display and correction work for the first processed version |
 | `issues/` | Per-issue correction workflows |
 | `fri_00.txt` | Initial SLP1 source text |
+
+## Usage example
+
+A real entry from [`csl-orig/v02/fri/fri.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/fri/fri.txt) (line 5, headword *aṃśa*, with Czech/Russian/English glosses):
+
+```
+<L>5<pc>011<k1>aMSa<k2>aMSa
+aṃśa m.
+<div n="1"/>1 <lang n="czech">podíl, díl, část</lang>
+<div n="1"/>2 <lang n="russian">доля, удел, часть</lang>
+<div n="1"/>3 <lang n="english">a share, portion, part</lang>
+<LEND>
+```
+
+To correct the Russian gloss with the org's standard `updateByLine.py` workflow, a change file addresses the line by its print-line number (`5`) and gives the old/new text pair:
+
+```
+5 old <div n="1"/>2 <lang n="russian">доля, удел, часть</lang>
+5 new <div n="1"/>2 <lang n="russian">доля, удел, часть, участь</lang>
+```
+
+```sh
+python updateByLine.py fri.txt change_fri_N.txt fri_corrected.txt
+```
 
 ## Timeline
 
@@ -91,3 +117,5 @@ Every issue carries one **type** label and one **severity** label.
 
 - **Jim Funderburk** ([@funderburkjim](https://github.com/funderburkjim)) — primary repository maintainer
 - **Mārcis Gasūns** ([@gasyoun](https://github.com/gasyoun)) — initial commit
+
+_Dr. Mārcis Gasūns_

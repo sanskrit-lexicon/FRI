@@ -17,7 +17,7 @@ This repository holds corrections and tooling for the [Cologne digitization](htt
 
 ## Usage example
 
-A real entry from [`csl-orig/v02/fri/fri.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/fri/fri.txt) (line 5, headword *aṃśa*, with Czech/Russian/English glosses):
+A real entry from [`csl-orig/v02/fri/fri.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/fri/fri.txt) (line 5, headword *aṃśa*, with Czech/Russian/English glosses):
 
 ```
 <L>5<pc>011<k1>aMSa<k2>aMSa

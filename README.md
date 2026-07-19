@@ -1,7 +1,7 @@
 FRI
 ===
 
-_Created: 26-01-2024 · Last updated: 05-07-2026_
+_Created: 26-01-2024 · Last updated: 11-07-2026_
 
 Frish, Oldřich (1903–1955). *Sanskrtská čítanka* (Sanskrit Reader). Moscow: ABV, 2015. Vol. 2.
 
@@ -17,7 +17,7 @@ This repository holds corrections and tooling for the [Cologne digitization](htt
 
 ## Usage example
 
-A real entry from [`csl-orig/v02/fri/fri.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/fri/fri.txt) (line 5, headword *aṃśa*, with Czech/Russian/English glosses):
+A real entry from [csl-orig/v02/fri/fri.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/fri/fri.txt) (line 5, headword *aṃśa*, with Czech/Russian/English glosses):
 
 ```
 <L>5<pc>011<k1>aMSa<k2>aMSa
@@ -28,7 +28,7 @@ aṃśa m.
 <LEND>
 ```
 
-To correct the Russian gloss with the org's standard `updateByLine.py` workflow, a change file addresses the line by its print-line number (`5`) and gives the old/new text pair:
+To correct the Russian gloss, a change file addresses the line by its print-line number (`5`) and gives the old/new text pair:
 
 ```
 5 old <div n="1"/>2 <lang n="russian">доля, удел, часть</lang>
@@ -39,6 +39,8 @@ To correct the Russian gloss with the org's standard `updateByLine.py` workflow,
 python updateByLine.py fri.txt change_fri_N.txt fri_corrected.txt
 ```
 
+The full 8-stage correction workflow (change-file format, `updateByLine.py`, XML validation, BOM and line-count gotchas) is documented once, canonically, in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md); corrections are never committed directly to `csl-orig` but batched through that queue.
+
 ## Timeline
 
 | Period | Milestone |
@@ -46,6 +48,7 @@ python updateByLine.py fri.txt change_fri_N.txt fri_corrected.txt
 | Jan 2024 | Repository initialized; initial `fri_00.txt` version (#1) |
 | Jan–Feb 2025 | `fri_01` display work and image index corrections (#3, #4) |
 | Mar 2026 | Latin to Cyrillic string corrections (#8) |
+| May 2026 | Minor `fri.txt` markup fixes (#11) |
 
 ## Projects & Milestones
 
@@ -55,14 +58,14 @@ Work is organised into four GitHub Projects (org-level kanban boards), each mirr
 |---|---|---|---|---|
 | [**Dictionary to Book**](https://github.com/orgs/sanskrit-lexicon/projects/1) | [milestone](https://github.com/sanskrit-lexicon/FRI/milestone/1) | 0 | 0 | Link targets |
 | [**Digitization Quality**](https://github.com/orgs/sanskrit-lexicon/projects/2) | [milestone](https://github.com/sanskrit-lexicon/FRI/milestone/2) | 0 | 3 | Scan quality, encoding, bug fixes |
-| [**Structured Data**](https://github.com/orgs/sanskrit-lexicon/projects/3) | [milestone](https://github.com/sanskrit-lexicon/FRI/milestone/3) | 1 | 1 | Markup, abbreviation tooltips |
+| [**Structured Data**](https://github.com/orgs/sanskrit-lexicon/projects/3) | [milestone](https://github.com/sanskrit-lexicon/FRI/milestone/3) | 1 | 2 | Markup, abbreviation tooltips |
 | [**Major Enhancements**](https://github.com/orgs/sanskrit-lexicon/projects/4) | [milestone](https://github.com/sanskrit-lexicon/FRI/milestone/4) | 2 | 3 | Display upgrades, new versions |
 
 ```mermaid
 pie title Closed issues by milestone
     "Digitization Quality" : 3
     "Major Enhancements" : 3
-    "Structured Data" : 1
+    "Structured Data" : 2
 ```
 
 ```mermaid
@@ -80,7 +83,7 @@ pie title Open issues by milestone
 | **Content enhancement** | 3 | Initial display versions, fri_01 setup | Initial displays [#3](https://github.com/sanskrit-lexicon/FRI/issues/3), fri_01 [#2](https://github.com/sanskrit-lexicon/FRI/issues/2), new version [#7](https://github.com/sanskrit-lexicon/FRI/issues/7) |
 | **Scan quality** | 2 | Image index corrections, wrong image | Image corrections [#4](https://github.com/sanskrit-lexicon/FRI/issues/4), wrong image [#5](https://github.com/sanskrit-lexicon/FRI/issues/5) |
 | **Encoding** | 1 | Latin to Cyrillic string conversion | Cyrillic strings [#8](https://github.com/sanskrit-lexicon/FRI/issues/8) |
-| **Markup** | 1 | Bibliographic entry markup | Worldcat entry [#6](https://github.com/sanskrit-lexicon/FRI/issues/6) |
+| **Markup** | 2 | Bibliographic entry markup, `fri.txt` markup fixes | Worldcat entry [#6](https://github.com/sanskrit-lexicon/FRI/issues/6), markup oddities [#11](https://github.com/sanskrit-lexicon/FRI/issues/11) |
 
 #### Open (work ahead)
 

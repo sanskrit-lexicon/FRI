@@ -1,3 +1,5 @@
+_Created: 07-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -22,3 +24,4 @@ Each issue folder follows the standard pattern:
 3. Rebuild XML with `generate_dict.sh`, validate with `xmlchk_xampp.sh`
 4. Commit corrected file to `csl-orig`; commit docs back here
 
+_Dr. Mārcis Gasūns_
